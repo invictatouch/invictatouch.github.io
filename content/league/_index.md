@@ -3,7 +3,7 @@ title: 'Invicta Touch 2024 Summer League'
 menus:
   main:
     name: Summer League
-    weight: 6
+    weight: 5
 images:
  - file: angela.jpg
  - file: refs.jpg

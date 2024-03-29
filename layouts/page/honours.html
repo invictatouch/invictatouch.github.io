@@ -1,0 +1,61 @@
+{{ define "head" }}
+<style>
+  .B18, .MO, .M20, .M23, .M30, .M35, .M40, .M45, .M50, .M55 {background-color: #048;}
+  .G18, .WO, .W20, .W23, .W27, .W35, .W40 {background-color: #c06;}
+  .X15, .X18, .XO, .X20, .X30 {background-color: #5b743c;}
+  .X15, .B18, .G18, .X18, .M20, .M23, .W20, .W23, .X20 {opacity: 50%;}
+  .M30, .W27, .X30, .M35, .W35, .M40, .W40, .M45, .M50, .M55 {opacity: 50%}
+  .REF {background-color: #999;}
+  .B18::after {content: "Boys' 18s";}
+  .M20::after {content: "Men's 20s";}
+  .MO::after {content: "Men's Open";}
+  .M30::after {content: "Men's 30s";}
+  .M35::after {content: "Men's 35s";}
+  .M40::after {content: "Men's 40s";}
+  .M45::after {content: "Men's 45s";}
+  .M50::after {content: "Men's 50s";}
+  .M55::after {content: "Men's 55s";}
+  .G18::after {content: "Girls' 18s";}
+  .W20::after {content: "Women's 20s";}
+  .WO::after {content: "Women's Open";}
+  .W27::after {content: "Women's 27s";}
+  .W35::after {content: "Women's 35s";}
+  .W40::after {content: "Women's 40s";}
+  .X15::after {content: "Mixed 15s";}
+  .X18::after {content: "Mixed 18s";}
+  .X20::after {content: "Mixed 20s";}
+  .XO::after {content: 'Mixed Open';}
+  .X30::after {content: "Mixed 30s";}
+  .REF::after {content: 'Referee';}
+  .short {display: none;}
+</style>
+{{ end }}
+{{ define "main" }}
+<div class="lead mb-4">
+  {{ .Content }}
+</div>
+{{ with .Params.caps }}
+  <div class="row">
+  {{ range . }}
+    <div class="col-md-12 col-lg-6 col-xxl-4 mb-4">
+      <img src="{{ if .photo }}{{ .photo }}{{ else }}placeholder.png{{ end }}" alt="{{ .name }}" class="rounded float-start me-2" width="57" height="57" />
+      <div class="d-flex align-items-center flex-wrap">
+        <img src="/images/flags/{{ if .country }}{{ lower .country }}{{ else }}england{{ end }}.svg"
+             alt="{{ if .country }}{{ .country }}{{ else }}England{{ end }}"
+             width="32" height="24" class="border me-2"/>
+        <h4 class="mb-0">{{ .name }}</h4>
+      </div>
+      <div class="d-flex align-items-center flex-wrap">
+      {{ with .divisions }}
+      {{ range . }}
+      <span class="badge {{.}} text-white me-1 my-1">
+        <span class="short">{{ . }}</span>
+      </span>
+      {{ end }}
+      {{ end }}
+      </div>
+    </div>
+  {{ end }}
+  </div>
+{{ end }}
+{{ end }}
