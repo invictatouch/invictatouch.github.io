@@ -5,8 +5,8 @@ menus:
     name: Summer League
     weight: 6
 images:
- - file: week1.jpg
- - file: ref.jpg
+ - file: angela.jpg
+ - file: refs.jpg
  - file: owain.jpg
 ---
 
