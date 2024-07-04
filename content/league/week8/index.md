@@ -1,5 +1,5 @@
 ---
-title: 'Week 8 - Fixtures'
+title: 'Week 8 - Results'
 slug: 'week-8'
 matchday: 2024-07-03T18:30:00
 layout: 'semis'
