@@ -1,7 +1,7 @@
 ---
 title: 'Week 9 - Fixtures'
 slug: 'week-9'
-matchday: 2024-07-10T18:30:00
+matchday: 2024-07-17T18:30:00
 layout: 'finals'
 weight: -1
 
