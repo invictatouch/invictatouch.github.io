@@ -9,13 +9,16 @@ adult_sessions:
  - time: Mondays 7pm-8:30pm
    venue: Barton Fields
    map: https://maps.app.goo.gl/T8uhzbgRr56cnGAf6
- - time: Wednesdays 6:30pm-9:00pm
-   venue: Summer League
-   map: /league/
+ - time: Wednesdays 6:30pm-8:00pm
+   venue: Bridge Recreation Ground
+   map: https://maps.app.goo.gl/4NiVX1A3gBiK8ZbGA
 junior_sessions:
- - time: Fridays 4pm-5pm<br/>(term time only)
-   venue: The Langton School for Boys
-   map: https://maps.app.goo.gl/iU146SgsXcpPJd3NA
+ - time: Wednesdays 5:30pm-6:30pm
+   venue: Bridge Recreation Ground
+   map: https://maps.app.goo.gl/4NiVX1A3gBiK8ZbGA
+# - time: Fridays 4pm-5pm<br/>(term time only)
+#   venue: The Langton School for Boys
+#   map: https://maps.app.goo.gl/iU146SgsXcpPJd3NA
 ---
 
 # Elite, social, and junior Touch Rugby in Canterbury
