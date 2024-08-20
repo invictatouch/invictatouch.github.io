@@ -6,7 +6,7 @@ menus:
     weight: 1
 
 adult_sessions:
- - time: Mondays 7pm-8:30pm
+ - time: Mondays 6:30pm-8:00pm
    venue: Barton Fields
    map: https://maps.app.goo.gl/T8uhzbgRr56cnGAf6
  - time: Wednesdays 6:30pm-8:00pm
