@@ -102,7 +102,7 @@
 <h2 class="mt-4 border-bottom">Latest News</h2>
 <div class="row">
 {{ range (where .Site.Pages "Section" "posts") }}
-   {{ range first 4 .Pages }}
+   {{ range first 8 .Pages }}
      <div class="col-12 col-md-6 col-lg-3">
        <a href="{{ .Permalink }}">
          {{ with .Resources.GetMatch .Params.image }}
