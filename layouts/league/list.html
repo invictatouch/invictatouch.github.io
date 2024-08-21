@@ -2,11 +2,12 @@
   <script src="https://kit.fontawesome.com/924a0097e6.js" crossorigin="anonymous"></script>
 {{ end }}
 {{ define "main" }}
-  <h1>2024 Summer League</h1>
-  <p class="lead mt-3">
-    The 2024 Canterbury Summer Touch League will run weekly from Wednesday 15th May until Wednesday 10th
-    July inclusive, with a free practice and coaching session for all teams on Wednesday 8th May.
-  </p>
+  <h1>Summer League</h1>
+  <div class="alert alert-warning mt-3">
+    The 2024 Canterbury Summer League has now finished. The league will return in <b>May 2025</b>. If you would be interested in
+    entering a team or becoming a sponsor, please contact <a href="mailto:summerleague@invictatouch.com" class="alert-link">summerleague@invictatouch.com</a>
+    to register your interest.
+  </div>
   <div class="row gx-lg-3">
     {{ range .Params.images }}
     <div class="col-lg-4 mb-3 position-relative">
@@ -17,21 +18,30 @@
     </div>
     {{ end }}
   </div>
+  <h2 class="mt-3 mb-3 text-center">2024 Final Results &amp; Standings</h2>
   <div class="list-group list-group-horizontal-lg mb-4">
     {{ range .Pages.ByTitle.Reverse }}
     <a class="list-group-item list-group-item-action text-primary" href="{{ .Permalink }}"><b>{{ slicestr .Title 0 6 }}</b></a>
     {{ end }}
   </div>
   <div class="row mb-3">
+    {{ $winners1 := .Params.winners.premiership }}
+    {{ $winners2 := .Params.winners.championship }}
     {{ range .Pages.ByWeight.Reverse.Limit 1 }}
       <div class="col-lg-6 pe-lg-5">
         <h3 class="text-center">Social League 1</h3>
+        {{ if $winners1 }}
+          {{ partial "winners.html" $winners1 }}
+        {{ end }}
         {{ with .Params.tables.premiership }}
           {{ partial "table.html" . }}
         {{ end }}
       </div>
       <div class="col-lg-6 ps-lg-5">
         <h3 class="text-center">Social League 2</h3>
+        {{ if $winners2 }}
+          {{ partial "winners.html" $winners2 }}
+        {{ end }}
         {{ with .Params.tables.championship }}
           {{ partial "table.html" . }}
         {{ end }}

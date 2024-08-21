@@ -8,6 +8,33 @@ images:
  - file: angela.jpg
  - file: refs.jpg
  - file: owain.jpg
+winners:
+  premiership:
+    gold:
+      team: Wombles
+      colour: "#94C6CA"
+    silver:
+      team: Not Trying Enough
+      colour: "#1A9BE2"
+    bronze:
+      team: Ruck Me Till I Scrum
+      colour: "#D50051"
+    plate:
+      team: Touching Turkeys
+      colour: "#F6D7D4"
+  championship:
+    gold:
+      team: Boys Become Men
+      colour: "#98CA68"
+    silver:
+      team: The REDS
+      colour: "#BF0026"
+    bronze:
+      team: Exiles
+      colour: "#09317F"
+    plate:
+      team: Touched 4 the Very Third Time
+      colour: "#513470"
 ---
 
 

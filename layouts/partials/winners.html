@@ -1,0 +1,42 @@
+<table class="table">
+  <tr class="lead">
+    <td class="text-end text-muted">
+      Winners
+      <i class="fa-solid fa-trophy ms-2" style="color: #ab9963;"></i>
+    </td>
+    <td>
+      <i class="fa-solid fa-shirt me-1" style="color: {{ .gold.colour }};"></i>
+      <b>{{ .gold.team }}</b>
+    </td>
+  </tr>
+  <tr>
+    <td class="text-end text-muted">
+      Runners-Up
+      <i class="fa-solid fa-medal ms-2" style="color: #999;"></i>
+    </td>
+    <td>
+      <i class="fa-solid fa-shirt me-1" style="color: {{ .silver.colour }};"></i>
+      {{ .silver.team }}
+    </td>
+  </tr>
+  <tr class="border-secondary dashed">
+    <td class="text-end text-muted">
+      Third
+      <i class="fa-solid fa-medal ms-2" style="color: #d17a22;"></i>
+    </td>
+    <td>
+      <i class="fa-solid fa-shirt me-1" style="color: {{ .bronze.colour }};"></i>
+      {{ .bronze.team }}
+    </td>
+  </tr>
+  <tr>
+    <td class="text-end text-muted border-0">
+      Plate Winners
+      <i class="fa-solid fa-circle-dot ms-2" style="color: #ccc;"></i>
+    </td>
+    <td class="border-0">
+      <i class="fa-solid fa-shirt me-1" style="color: {{ .plate.colour }};"></i>
+      {{ .plate.team }}
+    </td>
+  </tr>
+</table>
