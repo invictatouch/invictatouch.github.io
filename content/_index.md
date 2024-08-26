@@ -13,12 +13,9 @@ adult_sessions:
    venue: Bridge Recreation Ground
    map: https://maps.app.goo.gl/4NiVX1A3gBiK8ZbGA
 junior_sessions:
- - time: Wednesdays 5:30pm-6:30pm
-   venue: Bridge Recreation Ground
-   map: https://maps.app.goo.gl/4NiVX1A3gBiK8ZbGA
-# - time: Fridays 4pm-5pm<br/>(term time only)
-#   venue: The Langton School for Boys
-#   map: https://maps.app.goo.gl/iU146SgsXcpPJd3NA
+ - time: Fridays 4pm-5pm<br/>(term time only)
+   venue: The Langton School for Boys
+   map: https://maps.app.goo.gl/iU146SgsXcpPJd3NA
 ---
 
 # Elite, social, and junior Touch Rugby in Canterbury
