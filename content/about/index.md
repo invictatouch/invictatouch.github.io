@@ -22,6 +22,9 @@ committee:
  - name: Dan Dyer
    position: Membership, Referees & Website
    mugshot: dan.jpg
+ - name: Gus Lister
+   position: Kit
+   mugshot: gus.jpg
 
 ---
 Invicta Touch is an independent touch rugby club based in Canterbury in Kent. We are affiliated
