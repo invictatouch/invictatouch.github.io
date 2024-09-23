@@ -39,12 +39,12 @@ caps:
    photo: jjlister.jpg
    divisions:
     - X18
- - name: Dan Mayall
-   photo: danmayall.jpg
-   divisions:
-    - B18
-    - MO
-    - XO
+# - name: Dan Mayall
+#   photo: danmayall.jpg
+#   divisions:
+#    - B18
+#    - MO
+#    - XO
  - name: Matthew Mayall
    photo: mattmayall.jpg
    divisions:
