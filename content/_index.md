@@ -6,12 +6,11 @@ menus:
     weight: 1
 
 adult_sessions:
- - time: Mondays 6:30pm-8:00pm
-   venue: Barton Fields
-   map: https://maps.app.goo.gl/T8uhzbgRr56cnGAf6
- - time: Wednesdays 6:30pm-8:00pm
-   venue: Bridge Recreation Ground
-   map: https://maps.app.goo.gl/4NiVX1A3gBiK8ZbGA
+ - time: Mondays 6:00pm-7:30pm
+   venue: Canterbury RFC
+   map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
+ - time: Wednesdays
+   venue: TBC
 junior_sessions:
  - time: Fridays 4pm-5pm<br/>(term time only)
    venue: The Langton School for Boys

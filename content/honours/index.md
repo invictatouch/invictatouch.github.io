@@ -16,6 +16,7 @@ caps:
    divisions:
     - B18
  - name: Eddie French
+   photo: eddiefrench.jpg
    divisions:
     - M40
 # - name: Max Howard

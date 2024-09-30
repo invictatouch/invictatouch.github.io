@@ -17,7 +17,7 @@
         {{ range . }}
         <p>
           <h6 class="mb-0">{{ .time|safeHTML }}</h6>
-          <a href="{{ .map }}">{{ .venue }}</a>
+          {{ if .map }}<a href="{{ .map }}">{{ .venue }}</a>{{ else }}{{ .venue }}{{ end }}
         </p>
         {{ end }}
         {{ end }}
