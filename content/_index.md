@@ -6,15 +6,23 @@ menus:
     weight: 1
 
 adult_sessions:
- - time: Mondays 6:00pm-7:30pm
+ - day: Mondays
+   time: 6pm-7:30pm
    venue: Canterbury RFC
+   surface: Grass
    map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
- - time: Wednesdays
+ - day: Wednesdays
+   time: TBC
    venue: TBC
+   #surface: Artificial
+   #map: https://maps.app.goo.gl/DzJCWBPnjhAPYhFa6
 junior_sessions:
- - time: Fridays 4pm-5pm<br/>(term time only)
+ - day: Fridays
+   time: 4pm-5pm
    venue: The Langton School for Boys
+   surface: 3G
    map: https://maps.app.goo.gl/iU146SgsXcpPJd3NA
+   details: Term time only
 ---
 
 # Elite, social, and junior Touch Rugby in Canterbury

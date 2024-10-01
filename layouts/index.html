@@ -1,6 +1,7 @@
 {{ define "head" }}
   <style>
     .carousel-item {font-size: .75em;}
+    .card-body>p:last-child {margin-bottom: 0 !important;}
   </style>
 {{ end }}
 {{ define "main" }}
@@ -10,24 +11,30 @@
     <div class="card border-primary h-100 text-primary text-center">
       <div class="card-header bg-primary">
         <h4 class="text-light heavy mb-0">Current Sessions</h4>
+        <h6 class="text-light my-0">Autumn/Winter 2024/25</h6>
       </div>
+      <h6 class="heavy mb-0 py-1 bg-secondary text-light">Adults</h6>
       <div class="card-body">
         {{ with .Params.adult_sessions }}
-        <h5 class="heavy mb-0">Adults</h5>
         {{ range . }}
+        <h6 class="mb-0"><span class="heavy">{{ .day }}</span> &middot; {{ .time|safeHTML }}</h6>
         <p>
-          <h6 class="mb-0">{{ .time|safeHTML }}</h6>
           {{ if .map }}<a href="{{ .map }}">{{ .venue }}</a>{{ else }}{{ .venue }}{{ end }}
+          {{ if .surface }}<span class="text-muted small">({{ .surface }})</span>{{ end }}
+          {{ if .details }}<br/><small class="text-muted">{{ .details }}</small>{{ end }}
         </p>
         {{ end }}
         {{ end }}
-        <hr/>
+      </div>
+      <h6 class="heavy mb-0 py-1 bg-secondary text-light">Juniors</h6>
+      <div class="card-body">
         {{ with .Params.junior_sessions }}
-        <h5 class="heavy mb-0">Juniors</h5>
         {{ range . }}
+        <h6 class="mb-0"><span class="heavy">{{ .day }}</span> &middot; {{ .time|safeHTML }}</h6>
         <p>
-          <h6 class="mb-0">{{ .time|safeHTML }}</h6>
           <a href="{{ .map }}">{{ .venue }}</a>
+          {{ if .surface }}<span class="text-muted small">({{ .surface }})</span>{{ end }}
+          {{ if .details }}<br/><small class="text-muted">{{ .details }}</small>{{ end }}
         </p>
         {{ end }}
         {{ end }}
@@ -75,22 +82,18 @@
         <h4 class="text-light heavy mb-0">Become a Member</h4>
       </div>
       <div class="card-body">
-        <h5 class="heavy mb-0 text-secondary">Adults</h5>
-        <p>
-          £25 a month or £275 a year
+        <h5 class="heavy mb-0 text-primary">Monthly Subscription</h5>
+        <p class="small">
+          Pay monthly by Direct Debit and attend as many sessions as you like.
+          Adult, junior, and family memberships available.
         </p>
-        <h5 class="heavy mb-0 text-secondary">Juniors</h5>
-        <p>
-          £15 a month
+        <h5 class="heavy mb-0 text-primary">Annual Subscription</h5>
+        <p class="small">
+          Pay for a year in advance and get 12 months for the price of 11.
         </p>
-        <h5 class="heavy mb-0 text-secondary">Families</h5>
-        <p>
-          Save money with a joint membership for adults and children
-        </p>
-        <hr/>
-        <h5 class="heavy mb-0 text-secondary">Pay-to-Play</h5>
-        <p class="mb-0">
-          Or join for just £10 a year and pay only for the sessions you attend
+        <h5 class="heavy mb-0 text-primary">Pay-to-Play</h5>
+        <p class="small mb-0">
+          Or join for just £10 a year and pay only for the sessions you attend.
         </p>
       </div>
       <div class="card-footer bg-white border-0 pb-3">
