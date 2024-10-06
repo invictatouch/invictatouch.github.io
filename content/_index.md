@@ -12,10 +12,10 @@ adult_sessions:
    surface: Grass
    map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
  - day: Wednesdays
-   time: TBC
+   time: 9pm-10pm
    venue: University of Kent
-   surface: Artificial
-   map: https://maps.app.goo.gl/DzJCWBPnjhAPYhFa6
+   surface: 3G
+   map: https://maps.app.goo.gl/UVBxs875S3ZYYo5S8
 junior_sessions:
  - day: Fridays
    time: 4pm-5pm
