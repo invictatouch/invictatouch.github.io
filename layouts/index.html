@@ -106,24 +106,9 @@
 <div class="row">
 {{ range (where .Site.Pages "Section" "posts") }}
    {{ range first 8 .Pages }}
-     <div class="col-12 col-md-6 col-lg-3">
-       <a href="{{ .Permalink }}">
-         {{ with .Resources.GetMatch .Params.image }}
-         {{ $image := .Resize "640x Lanczos q95" }}
-         <img src="{{ $image.Permalink }}" class="ratio ratio-4x3 rounded"/>
-         {{ end }}
-       </a>
-       <h5 class="mt-2 mb-0">
-         <a href="{{ .Permalink }}">{{ .Title }}</a>
-       </h5>
-       <div class="small text-secondary mb-2">{{ time.Format "2 January 2006" .Params.date }}</div>
-       <small class="text-muted">
-         {{ .Summary }}
-       </small>
-     </div>
+     {{ partial "article.html" . }}
    {{ end }}
 {{ end }}
 </div>
-
 {{ end }}
 

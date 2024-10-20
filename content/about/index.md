@@ -33,8 +33,7 @@ to [England Touch](https://englandtouch.org.uk) and play under
 
 We provide opportunities for anybody who wants to play touch socially or competitively,
 regardless of age, gender, fitness or ability.
-We compete against the top clubs in the country in the National Touch Series and
-more than 30 of our current and former players have gone on to represent England, at
-all levels from under-15s to over-50s.
+We compete against the top clubs in the country in the National Touch Series and many of our current
+and former players have gone on to represent England, at all levels from under-15s to over-55s.
 Our annual [summer league]({{<ref "/league" >}}) is one of the biggest club leagues in England,
 with 16 teams and around 180 players playing each week for 10 weeks every summer.
