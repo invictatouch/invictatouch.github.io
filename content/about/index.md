@@ -7,24 +7,45 @@ menus:
     weight: 3
 
 committee:
- - name: Suz Wilson
-   position: President, Treasurer & Summer&nbsp;League
-   mugshot: suz.jpg
- - name: Tom Humphreys
-   position: Junior Lead & Safeguarding
-   mugshot: tom.jpg
  - name: Vaughn Meredith
-   position: Senior Lead & University&nbsp;Liaison
+   roles:
+    - Chair
+    - Seniors &amp; Universities
    mugshot: vaughn.jpg
+ - name: Suz Wilson
+   roles:
+    - Vice-Chair
+    - Treasurer
+   mugshot: suz.jpg
  - name: Ellen King
-   position: Secretary
+   roles:
+    - Secretary
    mugshot: ellen.jpg
+ - name: Tom Humphreys
+   roles:
+    - Juniors &amp; Safeguarding
+   mugshot: tom.jpg
+ - name: Mike Bailey
+   roles:
+    - Membership
+   mugshot: mike.jpg
  - name: Dan Dyer
-   position: Membership, Referees & Website
+   roles:
+    - Website
+    - Referees
    mugshot: dan.jpg
  - name: Gus Lister
-   position: Kit
+   roles:
+    - Equipment &amp; Merchandise
    mugshot: gus.jpg
+ - name: Martin Reynard
+   roles:
+    - Development Fixtures
+   mugshot: martin.jpg
+ - name: Lydia Ticehurst
+   roles:
+    - Social Media
+   mugshot: lydia.jpg
 
 ---
 Invicta Touch is an independent touch rugby club based in Canterbury in Kent. We are affiliated
