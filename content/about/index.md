@@ -51,10 +51,25 @@ committee:
 Invicta Touch is an independent touch rugby club based in Canterbury in Kent. We are affiliated
 to [England Touch](https://englandtouch.org.uk) and play under
 [Federation of International Touch](https://internationaltouch.org) rules.
-
 We provide opportunities for anybody who wants to play touch socially or competitively,
 regardless of age, gender, fitness or ability.
-We compete against the top clubs in the country in the National Touch Series and many of our current
-and former players have gone on to represent England, at all levels from under-15s to over-55s.
+
+#### Social Touch
+We typically have two adult touch sessions and one junior session (during school term time only)
+with coaching and game time each week all year round. All sessions are mixed gender and open to
+all.
+Check our [calendar]({{<ref "/calendar" >}}) for the latest session times and venues.
+Fully inclusive and pay-to-play [membership]({{<ref "/join" >}}) options are available and
+new players are welcome to try two sessions for free before signing up.
+
 Our annual [summer league]({{<ref "/league" >}}) is one of the biggest club leagues in England,
-with 16 teams and around 180 players playing each week for 10 weeks every summer.
+with 16 teams and around 180 players playing each week for 10 weeks every summer. It is open to
+members and non-members alike.
+
+#### Competitive Touch
+Our elite mixed and single-gender teams compete against the top clubs in the country in the top
+division of the National Touch Series and our development side plays in the South East Development
+Series and other events. Our players are frequently selected to represent the South East Sharks and
+South East Taipans in the Touch Nationals each year and many of our current and former players have
+gone on to play for England, at all levels from under-15s to over-55s.
+
