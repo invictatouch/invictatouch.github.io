@@ -22,5 +22,5 @@ and Mike Bailey were named the female and male MVPs (Most Valuable Players) for 
 Thanks to Horsham Tigers for organising and hosting this event once again. We look forward to
 competing in the remaining rounds over the winter.
 
-*Team: Mike Bailey, Dale Bright, Chris Church, Erin Collins, Dan Dyer, Christian Garland,
-Simon Goodden, Katy Larkins, Vaughn Meredith, Martin Reynard, Katie Toombs, Fran, Elvis, Guthrie*
+*Team: Mike Bailey, Dale Bright, Chris Church, Erin Collins, Dan Dyer, Fran Gan, Christian Garland,
+Simon Goodden, Katy Larkins, Vaughn Meredith, Martin Reynard, Katie Toombs, Elvis, Guthrie*
