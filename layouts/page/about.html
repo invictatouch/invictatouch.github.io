@@ -13,7 +13,7 @@
         <div class="col-9">
           <h4 class="mb-1">{{ .name }}</h4>
           {{ range .roles }}
-          <h5 class="text-secondary mb-1">{{ .|safeHTML }}</h5>
+          <h6 class="text-secondary mb-1">&middot; {{ .|safeHTML }}</h6>
           {{ end }}
         </div>
       </div>
