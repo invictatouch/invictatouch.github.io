@@ -15,8 +15,10 @@ adult_sessions:
    #surface: Grass
    #map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
  - day: Wednesdays
-   time: TBC
-   venue: TBC
+   time: 8pm-9pm
+   venue: CCCU Sports Centre
+   surface: Indoors
+   map: https://maps.app.goo.gl/91uJXvv9en8fv48J8
 junior_sessions:
  - day: Fridays
    time: 4pm-5pm
