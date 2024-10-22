@@ -3,6 +3,12 @@ languageCode = 'en-gb'
 title = 'Invicta Touch'
 theme = 'bootstrap5'
 
+[outputs]
+  home = ['html']
+  section = ['html']
+  taxonomy = ['html']
+  term = ['html']
+
 [permalinks]
   [permalinks.page]
     posts = '/news/:year/:month/:slug/'

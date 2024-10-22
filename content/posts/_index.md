@@ -1,5 +1,6 @@
 ---
 title: 'News'
+outputs:  ['html','rss']
 menus:
   main:
     name: News

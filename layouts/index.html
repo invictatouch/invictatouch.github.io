@@ -102,7 +102,12 @@
     </div>
   </div>
 </div>
-<h2 class="mt-4 border-bottom">Latest News</h2>
+<h2 class="mt-4 border-bottom">
+  Latest News
+  {{ range where .Site.Sections "Title" "News" }}
+    {{ with .OutputFormats.Get "rss" -}}<a href="{{ .Permalink }}"><i class="bi-rss float-end"></i></a>{{ end }}
+  {{ end }}
+</h2>
 <div class="row">
 {{ range (where .Site.Pages "Section" "posts") }}
    {{ range first 8 .Pages }}
