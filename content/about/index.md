@@ -57,8 +57,7 @@ regardless of age, gender, fitness or ability.
 #### Social Touch
 Each week throughout the year we typically have two adult touch sessions and one junior session
 (during school term time only) with coaching and game time. All sessions are mixed gender and open
-to all.
-Check our [calendar]({{<ref "/calendar" >}}) for the latest session times and venues.
+to all. Check our [calendar]({{<ref "/calendar" >}}) for the latest times and venues.
 Fully inclusive and pay-to-play [membership]({{<ref "/join" >}}) options are available and
 new players are welcome to try two sessions for free before signing up.
 
