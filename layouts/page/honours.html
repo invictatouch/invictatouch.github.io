@@ -1,35 +1,3 @@
-{{ define "head" }}
-<style>
-  .B18, .MO, .M20, .M23, .M30, .M35, .M40, .M45, .M50, .M55 {background-color: #048;}
-  .G18, .WO, .W20, .W23, .W27, .W35, .W40 {background-color: #c06;}
-  .X15, .X18, .XO, .X20, .X30 {background-color: #5b743c;}
-  .X15, .B18, .G18, .X18, .M20, .M23, .W20, .W23, .X20 {opacity: 50%;}
-  .M30, .W27, .X30, .M35, .W35, .M40, .W40, .M45, .M50, .M55 {opacity: 50%}
-  .REF {background-color: #999;}
-  .B18::after {content: "Boys' 18s";}
-  .M20::after {content: "Men's 20s";}
-  .MO::after {content: "Men's Open";}
-  .M30::after {content: "Men's 30s";}
-  .M35::after {content: "Men's 35s";}
-  .M40::after {content: "Men's 40s";}
-  .M45::after {content: "Men's 45s";}
-  .M50::after {content: "Men's 50s";}
-  .M55::after {content: "Men's 55s";}
-  .G18::after {content: "Girls' 18s";}
-  .W20::after {content: "Women's 20s";}
-  .WO::after {content: "Women's Open";}
-  .W27::after {content: "Women's 27s";}
-  .W35::after {content: "Women's 35s";}
-  .W40::after {content: "Women's 40s";}
-  .X15::after {content: "Mixed 15s";}
-  .X18::after {content: "Mixed 18s";}
-  .X20::after {content: "Mixed 20s";}
-  .XO::after {content: 'Mixed Open';}
-  .X30::after {content: "Mixed 30s";}
-  .REF::after {content: 'Referee';}
-  .short {display: none;}
-</style>
-{{ end }}
 {{ define "main" }}
 <div class="lead mb-4">
   {{ .Content }}
@@ -45,15 +13,15 @@
              width="32" height="24" class="border me-2"/>
         <h4 class="mb-0">{{ .name }}</h4>
       </div>
-      <div class="d-flex align-items-center flex-wrap">
-      {{ with .divisions }}
-      {{ range . }}
-      <span class="badge {{.}} text-white me-1 my-1">
-        <span class="short">{{ . }}</span>
-      </span>
+      <h6 class="text-secondary mt-2">
+      {{ if .open_divisions }}
+        <span class="heavy">{{ .open_divisions | safeHTML }}</span>
       {{ end }}
+      {{ if .other_divisions }}
+        {{ if .open_divisions }} | {{ end }}
+        {{ .other_divisions | safeHTML }}
       {{ end }}
-      </div>
+      </h6>
     </div>
   {{ end }}
   </div>

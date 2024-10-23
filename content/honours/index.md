@@ -9,112 +9,79 @@ layout: honours
 caps:
  - name: Dan Dyer
    photo: dandyer.jpg
-   divisions:
-    - M40
+   other_divisions: Men's 40s
  - name: Dan Eaglestone
    photo: daneaglestone.jpg
-   divisions:
-    - B18
+   other_divisions: Boys' 18s
  - name: Eddie French
    photo: eddiefrench.jpg
-   divisions:
-    - M40
+   other_divisions: Men's 40s
 # - name: Max Howard
 #   photo: maxhoward.jpg
-#   divisions:
-#    - MO
+#   open_divisions: Men's Open
 # - name: Rory Howard
 #   photo: roryhoward.jpg
-#   divisions:
-#    - B18
+#   other_divisions: Boys' 18s
  - name: Tom Humphreys
    photo: tomhumphreys.jpg
-   divisions:
-    - MO
-    - X30
+   open_divisions: Men's Open
+   other_divisions: Mixed 30s
  - name: Gus Lister
    photo: guslister.jpg
-   divisions:
-    - B18
+   other_divisions: Boys' 18s
  - name: JJ Lister
    photo: jjlister.jpg
-   divisions:
-    - X18
+   other_divisions: Mixed 18s
 # - name: Dan Mayall
 #   photo: danmayall.jpg
-#   divisions:
-#    - B18
-#    - MO
-#    - XO
+#   open_divisions: Men's Open &middot; Mixed Open
+#   other_divisions: Boys' 18s
  - name: Matthew Mayall
    photo: mattmayall.jpg
-   divisions:
-    - X15
-    - M20
+   other_divisions: Mixed 15s &middot; Men's 20s
  - name: Charlie Meredith
    photo: charliemeredith.jpg
-   divisions:
-    - REF
+   other_divisions: Referee
  - name: Stuart Meredith
    photo: stuartmeredith.jpg
-   divisions:
-    - B18
+   other_divisions: Boys' 18s
  - name: Vaughn Meredith
    photo: vaughnmeredith.jpg
-   divisions:
-    - MO
+   open_divisions: Men's Open
  - name: Eliot Nye
    photo: eliotnye.jpg
-   divisions:
-    - X15
-    - B18
-    - M20
-    - XO
+   open_divisions: Mixed Open
+   other_divisions: Mixed 15s &middot; Boys' 18s &middot; Men's 20s
  - name: Spencer Nye
    photo: spencernye.jpg
-   divisions:
-    - M45
-    - M50
-    - M55
+   other_divisions: Men's 45s &middot; Men's 50s &middot; Men's 55s
  - name: Martin Reynard
    photo: martinreynard.jpg
-   divisions:
-    - M50
+   other_divisions: Men's 50s
  - name: Adrian Riggs
    photo: adrianriggs.jpg
-   divisions:
-    - M50
+   other_divisions: Men's 50s
  - name: Michael Roberts
    photo: michaelroberts.jpg
    country: Wales
-   divisions:
-    - MO
+   open_divisions: Men's Open
  - name: Lola Sanderson
    photo: lolasanderson.jpg
-   divisions:
-    - X15
+   other_divisions: Mixed 15s
  - name: Alice Summers
    photo: alicesummers.jpg
-   divisions:
-    - X15
-    - G18
-    - W20
-    - XO
+   open_divisions: Mixed Open
+   other_divisions: Mixed 15s &middot; Girls' 18s &middot; Women's 20s
  - name: Danny Ticehurst
    photo: dannyticehurst.jpg
-   divisions:
-    - X20
+   other_divisions: Mixed 20s
  - name: Lydia Ticehurst
    photo: lydiaticehurst.jpg
-   divisions:
-    - G18
-    - WO
+   open_divisions: Women's Open
+   other_divisions: Girls' 18s
  - name: Suz Wilson
    photo: suzwilson.jpg
-   divisions:
-    - W27
-    - W35
-    - W40
+   other_divisions: Women's 27s &middot; Women's 35s &middot; Women's 40s
 ---
 
 # Invicta Touch Honours Board
