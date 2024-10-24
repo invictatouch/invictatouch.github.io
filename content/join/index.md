@@ -70,7 +70,7 @@ fitness sessions during the winter months.
 
 *Our training times and locations may change throughout the year but we will
 always be in Canterbury or the surrounding area. Consult our
-[calendar]({{<ref "/calendar" >}}) to see when and where we are currently training.*
+[calendar]({{<relref "/calendar" >}}) to see when and where we are currently training.*
 
 Members will receive coaching from England Touch players
 who will help develop your skills in a welcoming and social environment.

@@ -13,7 +13,7 @@ you'll be entered into a draw to win one of two one-night luxury bed-and-breakfa
 [The Dog at Wingham](https://www.thedog.co.uk).
 <!--more-->
 To be eligible for one of these prizes kindly donated by our friends at The Dog,
-just [sign up for a full adult membership]({{<ref "/join" >}}) before the deadline.
+just [sign up for a full adult membership]({{<relref "/join" >}}) before the deadline.
 You can choose to pay by either monthly or yearly Direct Debit
 (if you pay yearly you will get 12 months for the price of 11).
 Pay-to-play and junior memberships are not included in this offer.
