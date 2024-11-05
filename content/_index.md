@@ -7,10 +7,10 @@ menus:
 
 adult_sessions:
  - day: Mondays
-   time: 8pm-9pm
-   venue: University of Kent
-   surface: 3G
-   map: https://maps.app.goo.gl/s6umr8E8XQsKT1TM6
+   time: TBC
+   venue: TBC
+   #surface: 3G
+   #map: https://maps.app.goo.gl/s6umr8E8XQsKT1TM6
    #map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
  - day: Wednesdays
    time: TBC
