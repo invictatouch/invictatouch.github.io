@@ -7,7 +7,7 @@ menus:
 
 adult_sessions:
  - day: Mondays
-   time: 6:3pm-8pm
+   time: 6:30pm-8pm
    venue: Canterbury RFC
    surface: Grass
    #map: https://maps.app.goo.gl/s6umr8E8XQsKT1TM6
