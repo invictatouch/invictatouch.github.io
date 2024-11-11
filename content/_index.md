@@ -7,11 +7,11 @@ menus:
 
 adult_sessions:
  - day: Mondays
-   time: TBC
-   venue: TBC
-   #surface: 3G
+   time: 6:3pm-8pm
+   venue: Canterbury RFC
+   surface: Grass
    #map: https://maps.app.goo.gl/s6umr8E8XQsKT1TM6
-   #map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
+   map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
  - day: Wednesdays
    time: TBC
    venue: TBC
