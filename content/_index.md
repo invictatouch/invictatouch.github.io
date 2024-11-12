@@ -13,9 +13,10 @@ adult_sessions:
    #map: https://maps.app.goo.gl/s6umr8E8XQsKT1TM6
    map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
  - day: Wednesdays
-   time: TBC
-   venue: TBC
-   #surface: Indoors
+   time: 9pm-10pm
+   venue: Kingsmead Pools & Fitness
+   surface: Indoors
+   map: https://maps.app.goo.gl/XkzJVRPB3tLPvRww8
    #map: https://maps.app.goo.gl/91uJXvv9en8fv48J8
 junior_sessions:
  - day: Fridays
