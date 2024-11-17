@@ -13,7 +13,7 @@ adult_sessions:
    #map: https://maps.app.goo.gl/s6umr8E8XQsKT1TM6
    map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
  - day: Wednesdays
-   time: 9pm-10pm
+   time: 8pm-9pm
    venue: Kingsmead Pools & Fitness
    surface: Indoors
    map: https://maps.app.goo.gl/XkzJVRPB3tLPvRww8
