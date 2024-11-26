@@ -1,17 +1,5 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  <div class="alert alert-warning">
-    <h4 class="card-title heavy mb-2">Win a Luxury B&amp;B Stay at The Dog at Wingham</h4>
-    <p class="mb-0">
-      Sign up for a full monthly or yearly adult membership before
-      <b>4pm on Thursday 21st November 2024</b> to be
-      entered into a draw to win one of two luxury one-night bed-and-breakfast stays for two at
-      <a href="https://www.thedog.co.uk" class="alert-link">The Dog at Wingham</a>
-      {{ with .Site.GetPage "/posts/2024-membership-offer" }}
-      (<a href="{{ .Permalink }}" class="alert-link">more details</a>).
-      {{ end }}
-    </p>
-  </div>
   {{ .Content }}
   {{ with .Params.memberships }}
   <div class="row mt-4 gx-3">
