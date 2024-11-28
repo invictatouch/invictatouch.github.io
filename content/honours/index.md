@@ -1,10 +1,10 @@
 ---
 title: "Honours Board"
 layout: honours
-#menus:
-#  main:
-#    name: Honours Board
-#    weight: 6
+menus:
+  main:
+    name: Honours Board
+    weight: 6
 
 caps:
  - name: Dan Dyer

@@ -37,7 +37,7 @@ committee:
  - name: Gus Lister
    roles:
     - Equipment &amp; Merchandise
-   mugshot: gus.jpg
+   mugshot: gus.jpg?1
  - name: Martin Reynard
    roles:
     - Development Fixtures
@@ -70,5 +70,5 @@ Our elite mixed and single-gender teams compete against the top clubs in the cou
 division of the National Touch Series and our development side plays in the South East Development
 Series and other events. Our players are frequently selected to represent the South East Sharks and
 South East Taipans in the Touch Nationals each year and many of our current and former players have
-gone on to play for England, at all levels from under-15s to over-55s.
+gone on to [play for England]({{<relref "/honours" >}}), at all levels from under-15s to over-55s.
 
