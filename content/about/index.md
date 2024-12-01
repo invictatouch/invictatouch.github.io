@@ -17,14 +17,6 @@ committee:
     - Vice-Chair
     - Treasurer
    mugshot: suz.jpg
- - name: Ellen King
-   roles:
-    - Secretary
-   mugshot: ellen.jpg
- - name: Tom Humphreys
-   roles:
-    - Juniors &amp; Safeguarding
-   mugshot: tom.jpg
  - name: Mike Bailey
    roles:
     - Membership
@@ -34,6 +26,14 @@ committee:
     - Website
     - Referees
    mugshot: dan.jpg
+ - name: Tom Humphreys
+   roles:
+    - Juniors &amp; Safeguarding
+   mugshot: tom.jpg
+ - name: Ellen King
+   roles:
+    - Secretary
+   mugshot: ellen.jpg
  - name: Gus Lister
    roles:
     - Equipment &amp; Merchandise
