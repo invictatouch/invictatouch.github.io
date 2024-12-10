@@ -7,11 +7,12 @@ menus:
 
 adult_sessions:
  - day: Mondays
-   time: 6:30pm-7:45pm
-   venue: Canterbury RFC
-   surface: Grass
+   time: 7pm-8pm
+   venue: Aylesham Welfare Leisure Centre
+   surface: 3G
    #map: https://maps.app.goo.gl/s6umr8E8XQsKT1TM6
-   map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
+   #map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
+   map: https://maps.app.goo.gl/qCnvq6WWKBu7Yyqi9
  - day: Wednesdays
    time: 8pm-9pm
    venue: Kingsmead Pools & Fitness
