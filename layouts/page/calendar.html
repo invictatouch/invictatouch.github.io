@@ -29,10 +29,10 @@
             let url = arg.event._def.url;
             var detail = "";
             if (location) {
-              detail += `<br/><small class="text-muted">${location}</small>`;
+              detail += `<br/><small class="text-secondary">${location}</small>`;
             }
             if (description) {
-              detail += `<br/><small class="text-secondary">${description}</small>`;
+              detail += `<br/><small class="text-muted">${description}</small>`;
             }
             return {html: `<a href="${url}"><b>${title}</b></a>${detail}`};
           }
