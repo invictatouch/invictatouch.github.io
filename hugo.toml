@@ -2,6 +2,7 @@ baseURL = 'https://invictatouch.com/'
 languageCode = 'en-gb'
 title = 'Invicta Touch'
 theme = 'bootstrap5'
+enableEmoji = true
 
 [outputs]
   home = ['html']
