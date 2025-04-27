@@ -1,20 +1,16 @@
 ---
 title: 'Invicta Players Selected in Regional Squads for Nationals'
 slug: 'invicta-players-selected-in-regional-squads-for-nationals'
-date: 2025-04-28T08:00:00
+date: 2025-04-27T08:00:00
 image: nationals.png
-draft: true
 ---
 Several Invicta Touch players have been selected to represent the South East region at the Touch Nationals
 in Nottingham over the May Day bank holiday weekend plus a few will be appearing for other regions.
 <!--more-->
-The Nationals is England's most prestigious touch tournament and features regional teams from around
-the country competing in open, seniors, and masters divisions over three days at the University of
-Nottingham.
-
-The South East is represented by the
-*Sharks* and the *Taipans*. These teams combine the best players from clubs in London, Kent, Sussex,
-and Surrey.
+The Nationals features regional teams from around the country competing in open, seniors, and masters
+divisions over three days at the University of Nottingham.
+The South East is represented by the *Sharks* and the *Taipans*. These teams combine the best players
+from clubs in London, Kent, Sussex, and Surrey.
 
 The full schedule of matches is [here](https://docs.google.com/spreadsheets/d/1jpryblMoNLEcyF64mcxFaDhGT8LFphSRMAKwINN_2ro/)
 and games on pitch 1 will be live-streamed on the [England Touch Youtube channel](https://www.youtube.com/englandtouch).
@@ -36,7 +32,7 @@ The following Invicta players will be involved and their live-streamed games hav
 
 ---
 :shark: South East Sharks - Men's 50s
-: Eddie French, Spencer Nye, Martin Reynard
+: Eddie French, Martin Reynard
 
 :tv: Saturday 16:50 vs. South West Saxons
 
