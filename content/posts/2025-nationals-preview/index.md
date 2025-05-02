@@ -24,7 +24,7 @@ The following Invicta players will be involved and their live-streamed games hav
 
 ---
 :shark: South East Sharks - Mixed Open
-: Gus Lister, Eliot Nye
+: Eliot Nye
 
 :tv: Saturday 17:40 vs. South West Saxons \
 :tv: Sunday 10:40 vs. Midland Tigers \
@@ -38,7 +38,7 @@ The following Invicta players will be involved and their live-streamed games hav
 
 ---
 :snake: South East Taipans - Men's Open
-: Vaughn Meredith
+: Gus Lister, Vaughn Meredith
 
 :tv: Saturday 14:20 vs. South West Saxons \
 :tv: Sunday 9:00 vs. Scotland
