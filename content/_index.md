@@ -16,9 +16,9 @@ adult_sessions:
    #map: https://maps.app.goo.gl/qCnvq6WWKBu7Yyqi9
  - day: Wednesdays
    time: 6:30pm-8pm
-   venue: Bridge Recreation Ground
+   venue: The Langton School for Boys
    surface: Grass
-   map: https://maps.app.goo.gl/772Y5MnyPUUQXAEB9
+   map: https://maps.app.goo.gl/2f4hfiSwxZuwCxoPA
    #map: https://maps.app.goo.gl/XkzJVRPB3tLPvRww8
    #map: https://maps.app.goo.gl/91uJXvv9en8fv48J8
 junior_sessions:
@@ -26,7 +26,7 @@ junior_sessions:
    time: 4pm-5pm
    venue: The Langton School for Boys
    surface: 3G
-   map: https://maps.app.goo.gl/iU146SgsXcpPJd3NA
+   map: https://maps.app.goo.gl/2f4hfiSwxZuwCxoPA
    details: Term time only
 ---
 
