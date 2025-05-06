@@ -23,6 +23,6 @@ In the men's 40s, the South East Taipans completed the weekend unbeaten despite 
 from the Saxons. Debutant Mike Bailey became a Nationals winner at the first attempt, alongside
 Invicta club-mate Dan Dyer who won his fifth Nationals title overall and third in the 40s division.
 
-Elsewhere there were third-place finishes for Vaughn Meredith (South East Taipans men's open),
-Tor Summers and Euan Strachan (South East Taipans mixed open), Alice Summers and Millie Bunn (Midland
-Tigers women's open), and Eddie French and Martin Reynard (South East Sharks men's 50s).
+Elsewhere there were third-place finishes for Gus Lister and Vaughn Meredith (South East Taipans
+men's open), Tor Summers and Euan Strachan (South East Taipans mixed open), Alice Summers and Millie
+Bunn (Midland Tigers women's open), and Eddie French and Martin Reynard (South East Sharks men's 50s).
