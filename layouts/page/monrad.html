@@ -1,0 +1,105 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <div class="row g-2">
+
+    <div class="col-2">
+      <div id="seedings" class="card h-100 border-primary">
+        <div class="card-header bg-primary text-light">
+          Initial Seedings
+        </div>
+        <div class="card-body">
+          {{ range seq 16 }}
+          <div id="seed-{{ . }}" class="seed input-group input-group-sm mb-1">
+            <span class="seeding input-group-text" style="width: 32px;">{{ . }}</span>
+            <input type="text" class="form-control" placeholder="Team {{ . }}">
+          </div>
+          {{ end }}
+        </div>
+        <div class="card-footer bg-primary">
+          <button type="button" class="btn btn-light float-end">Start</button>
+        </div>
+      </div>
+    </div>
+
+    {{ range seq 4 }}
+    {{ with $round := . }}
+    <div class="col-2">
+      <div id="round-{{ $round }}" class="card h-100 border-secondary d-none">
+        <div class="card-header bg-secondary text-light">
+          Round {{ . }}
+        </div>
+        <div class="card-body">
+          {{ range seq 8 }}
+          {{ with $fixture := . }}
+          {{ with $index := sub (mul 2 $fixture) 1 }}
+          <div class="input-group input-group-sm">
+            <span class="input-group-text" style="width: 32px; border-bottom-left-radius: 0;">{{ $index }}</span>
+            <input type="text" class="form-control" placeholder="Team {{ $index }}" readonly>
+            <div class="input-group-text" style="border-bottom-right-radius: 0;">
+              <input class="form-check-input mt-0" type="radio" name="round-{{ $round }}-fixture-{{ $fixture }}" value="">
+            </div>
+          </div>
+          {{ end }}
+          {{ with $index := mul 2 $fixture }}
+          <div class="input-group input-group-sm mb-2">
+            <span class="input-group-text" style="width: 32px; border-top-left-radius: 0;">{{ $index }}</span>
+            <input type="text" class="form-control" placeholder="Team {{ $index }}" readonly>
+            <div class="input-group-text" style="border-top-right-radius: 0;">
+              <input class="form-check-input mt-0" type="radio" name="round-{{ $round }}-fixture-{{ $fixture }}" value="">
+            </div>
+          </div>
+          {{ end }}
+          {{ end }}
+          {{ end }}
+        </div>
+        <div class="card-footer bg-secondary">
+          <button type="button" class="btn btn-light float-end" isabled>{{ if eq $round 4 }}Finish{{ else }}Next{{ end }}</button>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    {{ end }}
+
+    <div class="col-2">
+      <div id="standings" class="card h-100 border-primary d-none">
+        <div class="card-header bg-primary text-light">
+          Final Standings
+        </div>
+        <div class="card-body">
+          {{ range seq 16 }}
+          <div class="input-group input-group-sm mb-1">
+            <span class="input-group-text" style="width: 32px;">{{ . }}</span>
+            <input id="final-{{ . }}" type="text" class="form-control" placeholder="Team {{ . }}">
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const seedings = ["Wombles", "Ruck Me Till I Scrum", "Leg Catchers", "Human Touch", "Dump Him Quick", "Touching Turkeys", "Pythons", "Burgess Hodgson",
+                          "Boys Become Even Bigger Men", "The REDS", "Trysexuals", "Misfits", "Exiles", "Touched 4 the Very 5th Time", "Live and Let Try", "Faversham Kraken"];
+        for (let i = 0; i < seedings.length; i++) {
+            document.querySelector("#seed-" + (i + 1) + " input").value = seedings[i];
+        }
+    });
+
+
+    function initialTeams() {
+        // Each team consists of a name, a seeding and a win count.
+        return document.querySelectorAll("#seedings .seed").map((seed) => {name: seed.querySelector("input").value;
+                                                                           seeding: parseInt(seed.querySelector(".seeding").innerHTML);
+                                                                           wins: 0});
+    }
+
+    function monradFixtures(teams) {
+        grouped = Object.groupBy(teams, ({ wins }) => wins);
+    }
+  </script>
+
+{{ end }}
