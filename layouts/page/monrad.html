@@ -18,7 +18,7 @@
           {{ end }}
         </div>
         <div class="card-footer bg-primary">
-          <button type="button" class="btn btn-light float-end">Start</button>
+          <button type="button" class="btn btn-light float-end" onclick="firstRound();">Start</button>
         </div>
       </div>
     </div>
@@ -92,13 +92,19 @@
 
     function initialTeams() {
         // Each team consists of a name, a seeding and a win count.
-        return document.querySelectorAll("#seedings .seed").map((seed) => {name: seed.querySelector("input").value;
-                                                                           seeding: parseInt(seed.querySelector(".seeding").innerHTML);
-                                                                           wins: 0});
+        return [...document.querySelectorAll("#seedings .seed")].map((seed) => ({name: seed.querySelector("input").value,
+                                                                                 seeding: parseInt(seed.querySelector(".seeding").innerHTML),
+                                                                                 wins: 0}));
     }
 
-    function monradFixtures(teams) {
+    function monradFixtures(roundId, teams) {
         grouped = Object.groupBy(teams, ({ wins }) => wins);
+        Object.keys(grouped).sort().forEach((w) => alert(JSON.stringify(grouped[w])));
+    }
+
+    function firstRound() {
+        monradFixtures("#round-1", initialTeams());
+        document.querySelector("#round-1").classList.remove("d-none");
     }
   </script>
 
