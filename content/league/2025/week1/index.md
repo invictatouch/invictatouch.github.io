@@ -88,7 +88,7 @@ fixtures:
      seeding: 2nd
      score: 0
    pitch: 1
-   time: 21:10
+   time: 20:10
  - team1:
      name: Exiles
      colour: "#000000"
@@ -100,6 +100,6 @@ fixtures:
      seeding: 14th
      score: 0
    pitch: 2
-   time: 21:10
+   time: 20:10
 ---
 
