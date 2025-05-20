@@ -1,6 +1,7 @@
 ---
-title: 'Week 9 - Fixtures'
+title: 'Week 9 - Results'
 slug: 'week-9'
+aliases: ['/league/week-9']
 matchday: 2024-07-17T18:30:00
 layout: 'finals'
 weight: -1

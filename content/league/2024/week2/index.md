@@ -1,6 +1,7 @@
 ---
 title: 'Week 2 - Results'
 slug: 'week-2'
+aliases: ['/league/week-2']
 matchday: 2024-05-22T18:30:00
 
 results:

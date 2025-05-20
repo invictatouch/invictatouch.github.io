@@ -1,5 +1,5 @@
 ---
-title: 'Invicta Touch 2025 Summer League'
+title: '2025 Summer League'
 menus:
   main:
     name: Summer League

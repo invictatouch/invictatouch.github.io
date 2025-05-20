@@ -1,0 +1,11 @@
+{{ define "head" }}
+  <script src="https://kit.fontawesome.com/924a0097e6.js" crossorigin="anonymous"></script>
+{{ end }}
+{{ define "main" }}
+  <h1>{{ .Params.title }}</h1>
+  <ul>
+    {{ range .Pages.ByTitle.Reverse }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}

@@ -1,6 +1,7 @@
 ---
 title: 'Week 3 - Results'
 slug: 'week-3'
+aliases: ['/league/week-3']
 matchday: 2024-05-29T18:30:00
 
 results:

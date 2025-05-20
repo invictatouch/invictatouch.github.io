@@ -2,10 +2,10 @@
   <script src="https://kit.fontawesome.com/924a0097e6.js" crossorigin="anonymous"></script>
 {{ end }}
 {{ define "main" }}
-  <h1>Summer League</h1>
+  <h1>{{ .Params.title }}</h1>
   <div class="row gx-lg-3">
     {{ range .Params.images }}
-    <div class="col-lg-4 mb-3 position-relative">
+    <div class="col-lg-4 mt-2 mb-3 position-relative">
       <img src="{{ .file }}" class="img-fluid rounded"/>
       <div class="opacity-50 text-white position-absolute bottom-0 end-0 me-3" style="font-size: .75em;">
         Photo: <a href="https://www.instagram.com/eaglecaptures.official/" target="_blank" class="link-light link-underline-light">Eagle Captures</a>
@@ -14,7 +14,7 @@
     {{ end }}
   </div>
   {{ if .Pages }}
-  <h2 class="mt-3 mb-3 text-center">{{ if .Params.winners }}Final {{ end }}Results &amp; Standings</h2>
+  <h2 class="mt-3 mb-3 text-center">{{ if .Params.winners }}Final {{ else }}Fixtures, {{ end }}Results &amp; Standings</h2>
   <div class="list-group list-group-horizontal-lg mb-4">
     {{ range .Pages.ByTitle.Reverse }}
     <a class="list-group-item list-group-item-action text-primary" href="{{ .Permalink }}"><b>{{ slicestr .Title 0 6 }}</b></a>
@@ -24,6 +24,7 @@
     {{ $winners1 := .Params.winners.premiership }}
     {{ $winners2 := .Params.winners.championship }}
     {{ range .Pages.ByWeight.Reverse.Limit 1 }}
+    {{ if .Params.tables }}
       <div class="col-lg-6 pe-lg-5">
         <h3 class="text-center">Social League 1</h3>
         {{ if $winners1 }}
@@ -42,6 +43,7 @@
           {{ partial "table.html" . }}
         {{ end }}
       </div>
+    {{ end }}
     {{ end }}
   </div>
   {{ end }}

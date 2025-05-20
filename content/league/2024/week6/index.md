@@ -1,6 +1,7 @@
 ---
 title: 'Week 6 - Results'
 slug: 'week-6'
+aliases: ['/league/week-6']
 matchday: 2024-06-19T18:30:00
 
 results:

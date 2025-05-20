@@ -1,6 +1,7 @@
 ---
 title: 'Week 4 - Results'
 slug: 'week-4'
+aliases: ['/league/week-4']
 matchday: 2024-06-05T18:30:00
 
 results:

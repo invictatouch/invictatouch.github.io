@@ -1,6 +1,7 @@
 ---
 title: 'Week 1 - Results'
 slug: 'week-1'
+aliases: ['/league/week-1']
 matchday: 2024-05-15T18:30:00
 
 results:

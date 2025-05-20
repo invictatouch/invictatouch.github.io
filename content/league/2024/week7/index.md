@@ -1,6 +1,7 @@
 ---
 title: 'Week 7 - Results'
 slug: 'week-7'
+aliases: ['/league/week-7']
 matchday: 2024-06-26T18:30:00
 
 results:

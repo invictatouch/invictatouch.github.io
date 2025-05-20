@@ -1,5 +1,5 @@
 ---
-title: 'Invicta Touch 2024 Summer League'
+title: '2024 Summer League'
 images:
  - file: angela.jpg
  - file: refs.jpg
