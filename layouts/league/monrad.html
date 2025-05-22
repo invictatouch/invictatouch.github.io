@@ -17,6 +17,7 @@
   {{ .Content }}
   <div class="row">
     <div class="col-lg-6 pe-lg-5">
+      <h3 class="text-center">Scores</h3>
       {{ if .Params.results }}
         {{ with .Params.results }}
           {{ partial "results.html" . }}
@@ -28,14 +29,11 @@
       {{ end }}
     </div>
     <div class="col-lg-6 ps-lg-5">
+      <h3 class="text-center">Preliminary Phase Standings</h3>
       {{ with .Params.monrad }}
         {{ partial "monrad.html" . }}
       {{ end }}
     </div>
   </div>
-  <p class="text-center text-muted small">
-    Seedings: <span class="badge text-bg-warning opacity-50">Original</span>
-    <span class="badge text-bg-warning">Updated</span>
-  </p>
 {{ end }}
 

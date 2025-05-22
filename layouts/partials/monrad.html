@@ -1,9 +1,9 @@
-<h3 class="text-center">Preliminary Phase Standings</h3>
 <table class="table table-sm">
   <tr>
     <th>&nbsp;</th>
     <th class="text-center">Pos</th>
     <th>Team</th>
+    <th class="text-end">Seed</th>
   </tr>
   {{ range $i, $element := . }}
   {{ range $wins, $teams := $element }}
@@ -20,6 +20,8 @@
     <td>
       <i class="fa-solid fa-shirt me-2" style="color: {{ .colour }};"></i>
       {{ .team }}
+    </td>
+    <td class="text-end">
       <span class="badge text-bg-warning ms-1">{{ .seeding }}</span>
     </td>
   </tr>
