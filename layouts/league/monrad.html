@@ -26,11 +26,16 @@
           {{ partial "fixtures.html" . }}
         {{ end }}
       {{ end }}
-      {{ with .Params.tables }}
-        {{ partial "table.html" . }}
+    </div>
+    <div class="col-lg-6 ps-lg-5">
+      {{ with .Params.monrad }}
+        {{ partial "monrad.html" . }}
       {{ end }}
-      <p class="text-center text-muted">Seedings shown in <span class="badge text-bg-warning">Yellow</span></p>
     </div>
   </div>
+  <p class="text-center text-muted small">
+    Seedings: <span class="badge text-bg-warning opacity-50">Original</span>
+    <span class="badge text-bg-warning">Updated</span>
+  </p>
 {{ end }}
 

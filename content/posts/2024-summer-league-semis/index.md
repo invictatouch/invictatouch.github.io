@@ -4,7 +4,7 @@ slug: 'summer-league-semi-final-line-up-confirmed'
 date: 2024-06-28T10:30:00
 image: 2024-summer-league-claire.jpg
 ---
-After seven weeks of hard-fought round-robin action the 2024 [Invicta Touch Summer League]({{<relref "/league" >}})
+After seven weeks of hard-fought round-robin action the 2024 [Invicta Touch Summer League]({{<relref "/league/2024" >}})
 has reached the semi-final stage. The top four in each division will contest the main prizes
 while the other teams play-off to be best of the rest.
 <!--more-->

@@ -4,7 +4,7 @@ slug: 'wombles-reclaim-summer-league-title'
 date: 2024-07-22T10:30:00
 image: wombles.jpg
 ---
-Former winners the Wombles are the 2024 [Invicta Touch Summer League]({{<relref "/league" >}})
+Former winners the Wombles are the 2024 [Invicta Touch Summer League]({{<relref "/league/2024" >}})
 champions after defeating Not Trying Enough in the Social League 1 final to reclaim their title.
 Boys Become Men took the Social League 2 honours with victory against The REDS.
 <!--more-->

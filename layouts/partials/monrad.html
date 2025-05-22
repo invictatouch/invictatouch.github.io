@@ -1,0 +1,30 @@
+<h3 class="text-center">Preliminary Phase Standings</h3>
+<table class="table table-sm">
+  <tr>
+    <th>&nbsp;</th>
+    <th class="text-center">Pos</th>
+    <th>Team</th>
+  </tr>
+  {{ range $i, $element := . }}
+  {{ range $wins, $teams := $element }}
+  {{ range $j, $team := $teams }}
+  <tr>
+    {{ if eq $j 0 }}
+    <td rowspan="{{ $teams | len }}" class="align-middle small text-white bg-primary {{ cond (eq $i 0) "opacity-100" "opacity-75" }}" style="width: 30px;">
+      <div style="writing-mode: vertical-rl; transform: rotate(180deg); text-transform: uppercase;">{{ $wins }} Win{{ cond (eq $wins "1") "" "s" }}</div>
+    </td>
+    {{ end }}
+    <td class="text-center">
+      {{ add (mul $i 8) (add $j 1) }}
+    </td>
+    <td>
+      <i class="fa-solid fa-shirt me-2" style="color: {{ .colour }};"></i>
+      {{ .team }}
+      <span class="badge text-bg-warning ms-1">{{ .seeding }}</span>
+    </td>
+  </tr>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+</table>
+

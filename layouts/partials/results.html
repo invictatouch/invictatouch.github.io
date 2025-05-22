@@ -4,6 +4,7 @@
     <td>
       <i class="fa-solid fa-shirt me-2" style="color: {{ .team1.colour }};"></i>
       {{ if gt .team1.score .team2.score }}<b>{{ .team1.name }}</b>{{ else }}{{ .team1.name }}{{ end }}
+      {{ if .team1.seeding }}<span class="badge text-bg-warning opacity-50 ms-1">{{ .team1.seeding }}</span>{{ end }}
     </td>
     <td class="text-end">{{ if gt .team1.score .team2.score }}<b>{{ .team1.score }}</b>{{ else }}{{ .team1.score }}{{ end }}</td>
   </tr>
@@ -11,6 +12,7 @@
     <td class="pb-3">
       <i class="fa-solid fa-shirt me-2" style="color: {{ .team2.colour }};"></i>
       {{ if lt .team1.score .team2.score }}<b>{{ .team2.name }}</b>{{ else }}{{ .team2.name }}{{ end }}
+      {{ if .team2.seeding }}<span class="badge text-bg-warning opacity-50 ms-1">{{ .team2.seeding }}</span>{{ end }}
     </td>
     <td class="pb-3 text-end">{{ if lt .team1.score .team2.score }}<b>{{ .team2.score }}</b>{{ else }}{{ .team2.score }}{{ end }}</td>
   </tr>
