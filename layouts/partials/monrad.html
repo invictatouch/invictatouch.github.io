@@ -5,17 +5,19 @@
     <th>Team</th>
     <th class="text-end">Seed</th>
   </tr>
+  {{ $pos := 0 }}
   {{ range $i, $element := . }}
   {{ range $wins, $teams := $element }}
   {{ range $j, $team := $teams }}
   <tr>
     {{ if eq $j 0 }}
-    <td rowspan="{{ $teams | len }}" class="align-middle small text-white bg-primary {{ cond (eq $i 0) "opacity-100" "opacity-75" }}" style="width: 30px;">
+    <td rowspan="{{ $teams | len }}" class="align-middle small text-white bg-primary {{ if eq $i 0 }}opacity-100{{ else if eq $i 1 }}opacity-75{{ else if eq $i 2 }}opacity-50{{ else }}opacity-25{{ end }}" style="width: 30px;">
       <div style="writing-mode: vertical-rl; transform: rotate(180deg); text-transform: uppercase;">{{ $wins }} Win{{ cond (eq $wins "1") "" "s" }}</div>
     </td>
     {{ end }}
     <td class="text-center">
-      {{ add (mul $i 8) (add $j 1) }}
+      {{ $pos = add $pos 1 }}
+      {{ $pos }}
     </td>
     <td>
       <i class="fa-solid fa-shirt me-2" style="color: {{ .colour }};"></i>
