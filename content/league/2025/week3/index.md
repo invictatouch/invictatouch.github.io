@@ -30,14 +30,14 @@ fixtures:
    pitch: 2
    time: 18:30
  - team1:
-     name: Touched for the Very 5th Time
-     colour: "#188F88"
-     seeding: 14th
+     name: Misfits
+     colour: "#b6b2bb"
+     seeding: 9th
      score: 0
    team2:
-     name: Live and Let Try
-     colour: "#783eb7"
-     seeding: 15th
+     name: Exiles
+     colour: "#000000"
+     seeding: 13th
      score: 0
    pitch: 3
    time: 18:30
@@ -54,14 +54,14 @@ fixtures:
    pitch: 1
    time: 19:20
  - team1:
-     name: Misfits
-     colour: "#b6b2bb"
-     seeding: 9th
+     name: Touched for the Very 5th Time
+     colour: "#188F88"
+     seeding: 14th
      score: 0
    team2:
-     name: Exiles
-     colour: "#000000"
-     seeding: 13th
+     name: Live and Let Try
+     colour: "#783eb7"
+     seeding: 15th
      score: 0
    pitch: 2
    time: 19:20
