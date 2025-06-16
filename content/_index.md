@@ -8,9 +8,10 @@ menus:
 adult_sessions:
  - day: Mondays
    time: 6:30pm-8pm
-   venue: Bridge Recreation Ground
+   venue: The Langton School for Boys
    surface: Grass
-   map: https://maps.app.goo.gl/772Y5MnyPUUQXAEB9
+   map: https://maps.app.goo.gl/2f4hfiSwxZuwCxoPA
+   #map: https://maps.app.goo.gl/772Y5MnyPUUQXAEB9
    #map: https://maps.app.goo.gl/s6umr8E8XQsKT1TM6
    #map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
    #map: https://maps.app.goo.gl/qCnvq6WWKBu7Yyqi9
