@@ -1,0 +1,83 @@
+{{ define "title" }}
+  <!-- This will override the default value set in baseof.html; i.e., "{{ .Site.Title }}" in the original example-->
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "head" }}
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:locale" content="en_GB" />
+  <script src="https://kit.fontawesome.com/924a0097e6.js" crossorigin="anonymous"></script>
+{{ end }}
+{{ define "main" }}
+  <h1 class="border-bottom mb-4">
+    {{ .Title }}
+    <br class="d-lg-none" />
+    <span class="text-muted float-lg-end small">{{ time.Format "Monday 2 January 2006" .Params.matchday }}</span>
+  </h1>
+  {{ .Content }}
+  <div class="row">
+    <div class="col-lg-6 pe-lg-5">
+      <h3 class="text-center">Cup</h3>
+      {{ if .Params.results }}
+        {{ with .Params.results.cup }}
+          {{ partial "results.html" . }}
+        {{ end }}
+      {{ else }}
+        {{ with .Params.fixtures.cup }}
+          {{ partial "fixtures.html" . }}
+        {{ end }}
+      {{ end }}
+      {{ with .Params.tables.cup }}
+        {{ partial "simpletable.html" . }}
+      {{ end }}
+    </div>
+    <div class="col-lg-6 ps-lg-5">
+      <h3 class="text-center">Plate</h3>
+      {{ if .Params.results }}
+        {{ with .Params.results.plate }}
+          {{ partial "results.html" . }}
+        {{ end }}
+      {{ else }}
+        {{ with .Params.fixtures.plate }}
+          {{ partial "fixtures.html" . }}
+        {{ end }}
+      {{ end }}
+      {{ with .Params.tables.plate }}
+        {{ partial "simpletable.html" . }}
+      {{ end }}
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-lg-6 pe-lg-5">
+      <h3 class="text-center">Bowl</h3>
+      {{ if .Params.results }}
+        {{ with .Params.results.bowl }}
+          {{ partial "results.html" . }}
+        {{ end }}
+      {{ else }}
+        {{ with .Params.fixtures.bowl }}
+          {{ partial "fixtures.html" . }}
+        {{ end }}
+      {{ end }}
+      {{ with .Params.tables.bowl }}
+        {{ partial "simpletable.html" . }}
+      {{ end }}
+    </div>
+    <div class="col-lg-6 ps-lg-5">
+      <h3 class="text-center">Shield</h3>
+      {{ if .Params.results }}
+        {{ with .Params.results.shield }}
+          {{ partial "results.html" . }}
+        {{ end }}
+      {{ else }}
+        {{ with .Params.fixtures.shield }}
+          {{ partial "fixtures.html" . }}
+        {{ end }}
+      {{ end }}
+      {{ with .Params.tables.shield }}
+        {{ partial "simpletable.html" . }}
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
+
