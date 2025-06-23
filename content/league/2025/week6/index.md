@@ -1,93 +1,93 @@
 ---
-title: 'Week 5 - Results'
-slug: 'week-5'
+title: 'Week 6 - Fixtures'
+slug: 'week-6'
 layout: 'cupplatebowlshield'
 matchday: 2025-06-18T18:30:00
 
-results:
+fixtures:
   cup:
    - team1:
+       name: Dump Him Quick
+       colour: "#1a9f69"
+       score: 0
+     team2:
        name: Ruck Me Till I Scrum
        colour: "#1A9BE2"
-       score: 3
-     team2:
-       name: Wombles
-       colour: "#f6b21b"
-       score: 8
+       score: 0
      pitch: 2
      time: 19:20
    - team1:
+       name: Wombles
+       colour: "#f6b21b"
+       score: 0
+     team2:
        name: Pythons
        colour: "#194938"
-       score: 5
-     team2:
-       name: Dump Him Quick
-       colour: "#1a9f69"
-       score: 9
+       score: 0
      pitch: 2
      time: 20:10
   plate:
    - team1:
        name: Exiles
        colour: "#000000"
-       score: 12
+       score: 0
+     team2:
+       name: Leg Catchers
+       colour: "#ec739f"
+       score: 0
+     pitch: 2
+     time: 18:30
+   - team1:
+       name: Human Touch
+       colour: "#e6306a"
+       score: 0
      team2:
        name: Misfits
        colour: "#b6b2bb"
-       score: 1
-     pitch: 1
-     time: 18:30
-   - team1:
-       name: Leg Catchers
-       colour: "#ec739f"
-       score: 6
-     team2:
-       name: Human Touch
-       colour: "#e6306a"
-       score: 5
-     pitch: 1
-     time: 20:10
+       score: 0
+     pitch: 3
+     time: 19:20
   bowl:
    - team1:
-       name: Live and Let Try
-       colour: "#783eb7"
-       score: 2
-     team2:
        name: Burgess Hodgson
        colour: "#f26e1a"
-       score: 7
-     pitch: 2
+       score: 0
+     team2:
+       name: The REDS
+       colour: "#34375f"
+       score: 0
+     pitch: 1
      time: 18:30
    - team1:
        name: Trysexuals
        colour: "#415faa"
-       score: 8
+       score: 0
      team2:
-       name: The REDS
-       colour: "#34375f"
-       score: 9
-     pitch: 3
+       name: Live and Let Try
+       colour: "#783eb7"
+       score: 0
+     pitch: 1
      time: 20:10
   shield:
    - team1:
-       name: Touching Turkeys
-       colour: "#dd1e35"
-       score: 5
-     team2:
        name: Boys Become Even Bigger Men
        colour: "#555555"
-       score: 13
-     pitch: 1
-     time: 19:20
-   - team1:
+       score: 0
+     team2:
        name: Touched 4 the Very 5th Time
        colour: "#188F88"
-       score: 7
-     team2:
+       score: 0
+     pitch: 3
+     time: 18:30
+   - team1:
        name: Faversham Kraken
        colour: "#c4feba"
-       score: 7
-     pitch: 3
+       score: 0
+     team2:
+       name: Touching Turkeys
+       colour: "#dd1e35"
+       score: 0
+     pitch: 1
      time: 19:20
 
 tables:
