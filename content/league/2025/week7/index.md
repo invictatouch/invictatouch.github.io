@@ -7,16 +7,6 @@ matchday: 2025-07-02T18:30:00
 fixtures:
   cup:
    - team1:
-       name: Pythons
-       colour: "#194938"
-       score: 0
-     team2:
-       name: Wombles
-       colour: "#f6b21b"
-       score: 0
-     pitch: TBC
-     time: TBC
-   - team1:
        name: Ruck Me Till I Scrum
        colour: "#1A9BE2"
        score: 0
@@ -24,19 +14,19 @@ fixtures:
        name: Dump Him Quick
        colour: "#1a9f69"
        score: 0
-     pitch: TBC
-     time: TBC
-  plate:
+     pitch: 3
+     time: 18:30
    - team1:
-       name: Misfits
-       colour: "#b6b2bb"
+       name: Pythons
+       colour: "#194938"
        score: 0
      team2:
-       name: Leg Catchers
-       colour: "#ec739f"
+       name: Wombles
+       colour: "#f6b21b"
        score: 0
-     pitch: TBC
-     time: TBC
+     pitch: 2
+     time: 20:10
+  plate:
    - team1:
        name: Human Touch
        colour: "#e6306a"
@@ -45,19 +35,19 @@ fixtures:
        name: Exiles
        colour: "#000000"
        score: 0
-     pitch: TBC
-     time: TBC
-  bowl:
+     pitch: 1
+     time: 18:30
    - team1:
-       name: Live and Let Try
-       colour: "#783eb7"
+       name: Misfits
+       colour: "#b6b2bb"
        score: 0
      team2:
-       name: The REDS
-       colour: "#34375f"
+       name: Leg Catchers
+       colour: "#ec739f"
        score: 0
-     pitch: TBC
-     time: TBC
+     pitch: 2
+     time: 19:20
+  bowl:
    - team1:
        name: Trysexuals
        colour: "#415faa"
@@ -66,8 +56,18 @@ fixtures:
        name: Burgess Hodgson
        colour: "#f26e1a"
        score: 0
-     pitch: TBC
-     time: TBC
+     pitch: 2
+     time: 18:30
+   - team1:
+       name: Live and Let Try
+       colour: "#783eb7"
+       score: 0
+     team2:
+       name: The REDS
+       colour: "#34375f"
+       score: 0
+     pitch: 1
+     time: 19:20
   shield:
    - team1:
        name: Boys Become Even Bigger Men
@@ -77,8 +77,8 @@ fixtures:
        name: Faversham Kraken
        colour: "#c4feba"
        score: 0
-     pitch: TBC
-     time: TBC
+     pitch: 3
+     time: 19:20
    - team1:
        name: Touched 4 the Very 5th Time
        colour: "#188F88"
@@ -87,8 +87,8 @@ fixtures:
        name: Touching Turkeys
        colour: "#dd1e35"
        score: 0
-     pitch: TBC
-     time: TBC
+     pitch: 1
+     time: 20:10
 
 tables:
   cup:
