@@ -14,8 +14,8 @@ fixtures:
        name: Pythons
        colour: "#194938"
        score: 0
-     pitch: TBC
-     time: TBC
+     pitch: 1
+     time: 18:30
    - team1:
        name: Wombles
        colour: "#f6b21b"
@@ -24,19 +24,9 @@ fixtures:
        name: Ruck Me Till I Scrum
        colour: "#1A9BE2"
        score: 0
-     pitch: TBC
-     time: TBC
+     pitch: 1
+     time: 19:20
   plate:
-   - team1:
-       name: Leg Catchers
-       colour: "#ec739f"
-       score: 0
-     team2:
-       name: Misfits
-       colour: "#b6b2bb"
-       score: 0
-     pitch: TBC
-     time: TBC
    - team1:
        name: Human Touch
        colour: "#e6306a"
@@ -45,8 +35,18 @@ fixtures:
        name: Exiles
        colour: "#000000"
        score: 0
-     pitch: TBC
-     time: TBC
+     pitch: 2
+     time: 18:30
+   - team1:
+       name: Leg Catchers
+       colour: "#ec739f"
+       score: 0
+     team2:
+       name: Misfits
+       colour: "#b6b2bb"
+       score: 0
+     pitch: 2
+     time: 20:10
   bowl:
    - team1:
        name: Burgess Hodgson
@@ -56,8 +56,8 @@ fixtures:
        name: Live and Let Try
        colour: "#783eb7"
        score: 0
-     pitch: TBC
-     time: TBC
+     pitch: 3
+     time: 18:30
    - team1:
        name: Trysexuals
        colour: "#415faa"
@@ -66,19 +66,9 @@ fixtures:
        name: The REDS
        colour: "#34375f"
        score: 0
-     pitch: TBC
-     time: TBC
+     pitch: 1
+     time: 20:10
   shield:
-   - team1:
-       name: Boys Become Even Bigger Men
-       colour: "#555555"
-       score: 0
-     team2:
-       name: Touched 4 the Very 5th Time
-       colour: "#188F88"
-       score: 0
-     pitch: TBC
-     time: TBC
    - team1:
        name: Touching Turkeys
        colour: "#dd1e35"
@@ -87,7 +77,17 @@ fixtures:
        name: Faversham Kraken
        colour: "#c4feba"
        score: 0
-     pitch: TBC
-     time: TBC
+     pitch: 2
+     time: 19:20
+   - team1:
+       name: Boys Become Even Bigger Men
+       colour: "#555555"
+       score: 0
+     team2:
+       name: Touched 4 the Very 5th Time
+       colour: "#188F88"
+       score: 0
+     pitch: 3
+     time: 19:20
 ---
 
