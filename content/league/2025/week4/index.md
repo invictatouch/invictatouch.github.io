@@ -48,7 +48,7 @@ results:
      score: 9
    team2:
      name: Live and Let Try
-     colour: "#783eb7"
+     colour: "#aa0000"
      seeding: 14th
      score: 7
    pitch: 1
@@ -137,7 +137,7 @@ monrad:
      colour: "#34375f"
      seeding: 12th
    - team: Live and Let Try
-     colour: "#783eb7"
+     colour: "#aa0000"
      seeding: 14th
  - 1:
    - team: Burgess Hodgson

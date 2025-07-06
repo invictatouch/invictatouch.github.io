@@ -50,7 +50,7 @@ results:
   bowl:
    - team1:
        name: Live and Let Try
-       colour: "#783eb7"
+       colour: "#aa0000"
        score: 2
      team2:
        name: Burgess Hodgson
@@ -139,7 +139,7 @@ tables:
       diff: "-1"
       points: 1
     - team: Live and Let Try
-      colour: "#783eb7"
+      colour: "#aa0000"
       diff: "-5"
       points: 1
   shield:

@@ -64,7 +64,7 @@ results:
        score: 19
      team2:
        name: Live and Let Try
-       colour: "#783eb7"
+       colour: "#aa0000"
        score: 5
      pitch: 1
      time: 20:10
@@ -139,7 +139,7 @@ tables:
       diff: "-1"
       points: 5
     - team: Live and Let Try
-      colour: "#783eb7"
+      colour: "#aa0000"
       diff: "-19"
       points: 2
   shield:

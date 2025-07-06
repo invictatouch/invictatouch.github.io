@@ -54,7 +54,7 @@ fixtures:
        score: 0
      team2:
        name: Live and Let Try
-       colour: "#783eb7"
+       colour: "#aa0000"
        score: 0
      pitch: 3
      time: 18:30

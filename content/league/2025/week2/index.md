@@ -24,7 +24,7 @@ results:
      score: 11
    team2:
      name: Live and Let Try
-     colour: "#783eb7"
+     colour: "#aa0000"
      seeding: 15th
      score: 3
    pitch: 2
@@ -139,7 +139,7 @@ monrad:
      colour: "#188F88"
      seeding: 14th
    - team: Live and Let Try
-     colour: "#783eb7"
+     colour: "#aa0000"
      seeding: 15th
  - 0:
    - team: Human Touch

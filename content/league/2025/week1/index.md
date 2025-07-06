@@ -67,7 +67,7 @@ results:
    time: 19:20
  - team1:
      name: Live and Let Try
-     colour: "#783eb7"
+     colour: "#aa0000"
      seeding: 15th
      score: 12
    team2:
@@ -126,7 +126,7 @@ monrad:
      colour: "#000000"
      seeding: 13th
    - team: Live and Let Try
-     colour: "#783eb7"
+     colour: "#aa0000"
      seeding: 15th
  - 0:
    - team: Wombles

@@ -60,7 +60,7 @@ results:
      score: 3
    team2:
      name: Live and Let Try
-     colour: "#783eb7"
+     colour: "#aa0000"
      seeding: 15th
      score: 11
    pitch: 2
@@ -127,7 +127,7 @@ monrad:
      colour: "#b6b2bb"
      seeding: 13th
    - team: Live and Let Try
-     colour: "#783eb7"
+     colour: "#aa0000"
      seeding: 14th
  - 1:
    - team: Leg Catchers

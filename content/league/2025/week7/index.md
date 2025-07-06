@@ -60,7 +60,7 @@ results:
      time: 18:30
    - team1:
        name: Live and Let Try
-       colour: "#783eb7"
+       colour: "#aa0000"
        score: 4
      team2:
        name: The REDS
@@ -139,7 +139,7 @@ tables:
       diff: "-2"
       points: 6
     - team: Live and Let Try
-      colour: "#783eb7"
+      colour: "#aa0000"
       diff: "-18"
       points: 6
   shield:
