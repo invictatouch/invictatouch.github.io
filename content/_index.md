@@ -16,10 +16,10 @@ adult_sessions:
    #map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
    #map: https://maps.app.goo.gl/qCnvq6WWKBu7Yyqi9
  - day: Wednesdays
-   time: 6:30pm-9pm
-   venue: Summer League
-   map: /league/2025
-   #map: https://maps.app.goo.gl/2f4hfiSwxZuwCxoPA
+   time: 6:30pm-8pm
+   venue: The Langton School for Boys
+   surface: Grass
+   map: https://maps.app.goo.gl/2f4hfiSwxZuwCxoPA
    #map: https://maps.app.goo.gl/XkzJVRPB3tLPvRww8
    #map: https://maps.app.goo.gl/91uJXvv9en8fv48J8
 junior_sessions:
