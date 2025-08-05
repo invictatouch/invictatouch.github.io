@@ -3,7 +3,7 @@
   {{ if .Params.image }}
     {{ with .Resources.GetMatch .Params.image }}
     {{ $image := .Resize "640x Lanczos q95" }}
-      <img src="{{ $image.RelPermalink }}" class="ratio ratio-4x3 rounded"/>
+      <img src="{{ $image.RelPermalink }}" class="ratio ratio-4x3 rounded" style="border: 1px solid rgba(0, 0, 0, .1);"/>
     {{ end }}
   {{ else }}
       <img src="/images/logos/invictatouch_gradient_rect.png" class="ratio ratio-4x3 rounded"/>
