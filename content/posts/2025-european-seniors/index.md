@@ -9,9 +9,9 @@ teams that will be competing at the
 [European Senior Touch Cup](https://www.zeeon.co.uk/gamehubplus/european-seniors-cup) in Scotland
 next week.
 <!--more-->
-Suzanne Wilson will feature in the England Women's over-45s team in the three-day tournament at the
-University of Stirling, with Dan Dyer in the men's 45s, Adrian Riggs in the men's 50s, and Eddie
-French, Spencer Nye and Martin Reynard playing for the men's over-55s.
+Suzanne Wilson will feature for England in the women's 40s/45s division in the three-day tournament
+at the University of Stirling, with Dan Dyer in the men's 45s, Adrian Riggs in the men's 50s, and
+Eddie French, Spencer Nye and Martin Reynard playing for the men's over-55s.
 
 This tournament and the equivalent open divisions event in Italy later in the month are the first
 competitions in a new four-year cycle for international touch following last year's World Cup. They
