@@ -2,7 +2,7 @@
 title: 'Six Selected to Play for England at European Senior Touch Cup'
 slug: 'invicta-players-selected-for-european-senior-touch-cup'
 date: 2025-08-09T08:00:00
-image: estc.jpg
+image: seniors.jpg
 ---
 Six of Invicta Touch's most experienced players have been selected to play in the England masters
 teams that will be competing at the
