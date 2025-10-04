@@ -1,0 +1,96 @@
+{{ define "title" }}
+  <!-- This will override the default value set in baseof.html; i.e., "{{ .Site.Title }}" in the original example-->
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "head" }}
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:locale" content="en_GB" />
+  <script src="https://kit.fontawesome.com/924a0097e6.js" crossorigin="anonymous"></script>
+{{ end }}
+{{ define "main" }}
+  <h1 class="border-bottom mb-4">
+    {{ .Title }}
+    <br class="d-lg-none" />
+    <span class="text-muted float-lg-end small">{{ time.Format "Monday 2 January 2006" .Params.matchday }}</span>
+  </h1>
+  {{ .Content }}
+  <div class="row">
+    <div class="col-lg-6 pe-lg-5">
+      {{ if .Params.results }}
+        {{ with .Params.results.cup | first 1 }}
+          <h3 class="text-center">Cup Final</h3>
+          {{ partial "results.html" . }}
+        {{ end }}
+        {{ with .Params.results.cup | last 1 }}
+          <div class="text-center text-primary" style="margin-top: -16px;">Third-Place Play-Off</div>
+          {{ partial "results.html" . }}
+        {{ end }}
+        {{ with .Params.results.plate | first 1 }}
+          <h3 class="text-center">Plate Final</h3>
+          {{ partial "results.html" . }}
+        {{ end }}
+        {{ with .Params.results.plate | last 1 }}
+          <div class="text-center text-primary" style="margin-top: -16px;">Third-Place Play-Off</div>
+          {{ partial "results.html" . }}
+        {{ end }}
+      {{ else }}
+        {{ with .Params.fixtures.cup | first 1 }}
+          <h3 class="text-center">Cup Final</h3>
+          {{ partial "fixtures.html" . }}
+        {{ end }}
+        {{ with .Params.fixtures.cup | last 1 }}
+          <div class="text-center text-primary" style="margin-top: -16px;">Third-Place Play-Off</div>
+          {{ partial "results.html" . }}
+        {{ end }}
+        {{ with .Params.fixtures.plate | first 1 }}
+          <h3 class="text-center">Plate Final</h3>
+          {{ partial "fixtures.html" . }}
+        {{ end }}
+        {{ with .Params.fixtures.plate | last 1 }}
+          <div class="text-center text-primary" style="margin-top: -16px;">Third-Place Play-Off</div>
+          {{ partial "results.html" . }}
+        {{ end }}
+      {{ end }}
+    </div>
+    <div class="col-lg-6 ps-lg-5">
+      {{ if .Params.results }}
+        {{ with .Params.results.bowl | first 1 }}
+          <h3 class="text-center">Bowl Final</h3>
+          {{ partial "results.html" . }}
+        {{ end }}
+        {{ with .Params.results.bowl | last 1 }}
+          <div class="text-center text-primary" style="margin-top: -16px;">Third-Place Play-Off</div>
+          {{ partial "results.html" . }}
+        {{ end }}
+        {{ with .Params.results.shield | first 1 }}
+          <h3 class="text-center">Shield Final</h3>
+          {{ partial "results.html" . }}
+        {{ end }}
+        {{ with .Params.results.shield | last 1 }}
+          <div class="text-center text-primary" style="margin-top: -16px;">Third-Place Play-Off</div>
+          {{ partial "results.html" . }}
+        {{ end }}
+      {{ else }}
+        {{ with .Params.fixtures.bowl | first 1 }}
+          <h3 class="text-center">Bowl Final</h3>
+          {{ partial "fixtures.html" . }}
+        {{ end }}
+        {{ with .Params.fixtures.bowl | last 1 }}
+          <div class="text-center text-primary" style="margin-top: -16px;">Third-Place Play-Off</div>
+          {{ partial "results.html" . }}
+        {{ end }}
+        {{ with .Params.fixtures.shield | first 1 }}
+          <h3 class="text-center">Shield Final</h3>
+          {{ partial "fixtures.html" . }}
+        {{ end }}
+        {{ with .Params.fixtures.shield | last 1 }}
+          <div class="text-center text-primary" style="margin-top: -16px;">Third-Place Play-Off</div>
+          {{ partial "results.html" . }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
+
+
