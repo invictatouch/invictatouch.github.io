@@ -37,11 +37,11 @@ committee:
  - name: Gus Lister
    roles:
     - Equipment &amp; Merchandise
-   mugshot: gus.jpg?1
- - name: Martin Reynard
+   mugshot: gus.jpg?2
+ - name: Jack Thomson
    roles:
-    - Development Fixtures
-   mugshot: martin.jpg
+    - Medical Liaison
+   mugshot: placeholder.png
  - name: Lydia Ticehurst
    roles:
     - Social Media

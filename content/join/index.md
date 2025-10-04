@@ -16,7 +16,7 @@ memberships:
    yearly_cost: £275
    yearly_url: https://pay.gocardless.com/AL00160FDYGMEY
    bullets:
-    - Two adult sessions each week
+    - One or two adult sessions each week
     - Coaching by England players
     - Opportunities to play in development tournaments and, subject to selection, elite National Touch Series events
     - <b>Includes one free junior membership</b>

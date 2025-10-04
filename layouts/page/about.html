@@ -5,7 +5,7 @@
   <div class="row d-flex justify-content-center">
     {{ with .Params.committee }}
     {{ range . }}
-    <div class="col-xxl-2 col-lg-3 col-md-4 col-sm-6 col-12 mb-4 text-center">
+    <div class="col-xxl-2 col-lg-3 col-md-4 col-6 mb-4 text-center">
       <img src="{{ .mugshot }}" alt="{{ .name }}" class="ratio ratio-1x1 rounded" />
       <h4 class="mt-2 mb-1">{{ .name }}</h4>
       {{ range .roles }}
