@@ -55,14 +55,14 @@ We provide opportunities for anybody who wants to play touch socially or competi
 regardless of age, gender, fitness or ability.
 
 #### Social Touch
-Each week throughout the year we typically have two adult touch sessions and one junior session
-(during school term time only) with coaching and game time. All sessions are mixed gender and open
-to all. Check our [calendar]({{<relref "/calendar" >}}) for the latest times and venues.
+Each week throughout the year we typically have one or two adult touch sessions and one junior
+session (during school term time only) with coaching and game time. All sessions are mixed gender
+and open to all. Check our [calendar]({{<relref "/calendar" >}}) for the latest times and venues.
 Fully inclusive and pay-to-play [membership]({{<relref "/join" >}}) options are available and
 new players are welcome to try two sessions for free before signing up.
 
-Our annual [summer league]({{<relref "/league" >}}), open to members and non-members alike, is one of
-the biggest club leagues in England with 16 teams and around 180 players playing each week for 10
+Our annual [summer league]({{<relref "/league" >}}), open to members and non-members alike, is one
+of the biggest club leagues in England with 16 teams and around 180 players playing each week for 10
 weeks every summer.
 
 #### Competitive Touch
