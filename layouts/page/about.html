@@ -5,11 +5,11 @@
   <div class="row d-flex justify-content-center">
     {{ with .Params.committee }}
     {{ range . }}
-    <div class="col-xxl-2 col-lg-3 col-md-4 col-6 mb-4 text-center">
+    <div class="col-xl col-md-2 col-sm-3 col-4 mb-4 text-center">
       <img src="{{ .mugshot }}" alt="{{ .name }}" class="ratio ratio-1x1 rounded" />
-      <h4 class="mt-2 mb-1">{{ .name }}</h4>
+      <h5 class="mt-2 mb-1"><span class="heavy">{{ .forename }}</span><br/>{{ .surname }}</h5>
       {{ range .roles }}
-      <h6 class="text-secondary mb-1">{{ .|safeHTML }}</h6>
+      <span class="badge text-bg-primary w-100 mb-1 py-1" style="text-wrap-mode: wrap; line-height: inherit;">{{ .|safeHTML }}</span>
       {{ end }}
     </div>
     {{ end }}
