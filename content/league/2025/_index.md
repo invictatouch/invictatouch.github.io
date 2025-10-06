@@ -1,5 +1,9 @@
 ---
 title: '2025 Summer League'
+images:
+ - file: wombles.jpg
+ - file: femalemvps.jpg
+ - file: oldcitybar.jpg
 menus:
   main:
     name: Summer League
