@@ -1,5 +1,10 @@
 {{ define "main" }}
-  <h1 class="border-bottom">{{ .Title }}</h1>
+  <h1 class="border-bottom">
+    {{ .Title }}
+    {{ range where .Site.Sections "Title" "News" }}
+      {{ with .OutputFormats.Get "rss" -}}<a href="{{ .Permalink }}"><i class="bi-rss float-end"></i></a>{{ end }}
+    {{ end }}
+  </h1>
   {{ .Content }}
   <div class="row">
     {{ range .Pages }}
