@@ -7,81 +7,138 @@ menus:
     weight: 6
 
 caps:
- - name: Dan Dyer
+ - forename: Dan
+   surname: Dyer
    photo: dandyer.jpg
-   other_divisions: Men's 40s
- - name: Dan Eaglestone
+   country: England
+   divisions:
+    - M40
+ - forename: Dan
+   surname: Eaglestone
    photo: daneaglestone.jpg
-   other_divisions: Boys' 18s
- - name: Eddie French
+   country: England
+   divisions:
+    - B18
+ - forename: Eddie
+   surname: French
    photo: eddiefrench.jpg
-   other_divisions: Men's 40s
-# - name: Max Howard
-#   photo: maxhoward.jpg
-#   open_divisions: Men's Open
-# - name: Rory Howard
-#   photo: roryhoward.jpg
-#   other_divisions: Boys' 18s
- - name: Tom Humphreys
+   country: England
+   divisions:
+    - M40
+ - forename: Tom
+   surname: Humphreys
    photo: tomhumphreys.jpg
-   open_divisions: Men's Open
-   other_divisions: Mixed 30s
- - name: Gus Lister
+   country: England
+   divisions:
+    - MO
+    - X30
+ - forename: Gus
+   surname: Lister
    photo: guslister.jpg
-   other_divisions: Boys' 18s
- - name: JJ Lister
+   country: England
+   divisions:
+    - B18
+ - forename: JJ
+   surname: Lister
    photo: jjlister.jpg
-   other_divisions: Mixed 18s
-# - name: Dan Mayall
-#   photo: danmayall.jpg
-#   open_divisions: Men's Open &middot; Mixed Open
-#   other_divisions: Boys' 18s
- - name: Matthew Mayall
+   country: England
+   divisions:
+    - X18
+ - forename: Matthew
+   surname: Mayall
    photo: mattmayall.jpg
-   other_divisions: Mixed 15s &middot; Men's 20s
- - name: Charlie Meredith
+   country: England
+   divisions:
+    - M20
+    - X15
+ - forename: Charlie
+   surname: Meredith
    photo: charliemeredith.jpg
-   other_divisions: Referee
- - name: Stuart Meredith
+   divisions:
+    - REF
+ - forename: Stuart
+   surname: Meredith
    photo: stuartmeredith.jpg
-   other_divisions: Boys' 18s
- - name: Vaughn Meredith
+   country: England
+   divisions:
+    - B18
+ - forename: Vaughn
+   surname: Meredith
    photo: vaughnmeredith.jpg
-   open_divisions: Men's Open
- - name: Eliot Nye
+   country: England
+   divisions:
+    - MO
+ - forename: Eliot
+   surname: Nye
    photo: eliotnye.jpg
-   open_divisions: Mixed Open
-   other_divisions: Mixed 15s &middot; Boys' 18s &middot; Men's 20s
- - name: Spencer Nye
+   country: England
+   divisions:
+    - XO
+    - M20
+    - B18
+    - X15
+ - forename: Spencer
+   surname: Nye
    photo: spencernye.jpg
-   other_divisions: Men's 45s &middot; Men's 50s &middot; Men's 55s
- - name: Martin Reynard
+   country: England
+   divisions:
+    - M45
+    - M50
+    - M55
+ - forename: Martin
+   surname: Reynard
    photo: martinreynard.jpg
-   other_divisions: Men's 50s
- - name: Adrian Riggs
+   country: England
+   divisions:
+    - M50
+ - forename: Adrian
+   surname: Riggs
    photo: adrianriggs.jpg
-   other_divisions: Men's 50s
- - name: Michael Roberts
+   country: England
+   divisions:
+    - M50
+ - forename: Michael
+   surname: Roberts
    photo: michaelroberts.jpg
    country: Wales
-   open_divisions: Men's Open
- - name: Lola Sanderson
+   divisions:
+    - MO
+ - forename: Lola
+   surname: Sanderson
    photo: lolasanderson.jpg
-   other_divisions: Mixed 15s
- - name: Alice Summers
+   country: England
+   divisions:
+    - X15
+ - forename: Alice
+   surname: Summers
    photo: alicesummers.jpg
-   open_divisions: Mixed Open
-   other_divisions: Mixed 15s &middot; Girls' 18s &middot; Women's 20s
- - name: Danny Ticehurst
+   country: England
+   divisions:
+    - XO
+    - W20
+    - G18
+    - X15
+ - forename: Danny
+   surname: Ticehurst
    photo: dannyticehurst.jpg
-   other_divisions: Mixed 20s
- - name: Lydia Ticehurst
+   country: England
+   divisions:
+    - X20
+ - forename: Lydia
+   surname: Ticehurst
    photo: lydiaticehurst.jpg
-   open_divisions: Women's Open
-   other_divisions: Girls' 18s
- - name: Suz Wilson
+   country: England
+   divisions:
+    - WO
+    - G18
+ - forename: Suz
+   surname: Wilson
    photo: suzwilson.jpg
-   other_divisions: Women's 27s &middot; Women's 35s &middot; Women's 40s
+   country: England
+   divisions:
+    - W27
+    - W35
+    - W40
 ---
 
 # Invicta Touch Honours Board
