@@ -26,15 +26,14 @@
             let title = arg.event._def.title;
             let location = arg.event._def.extendedProps.location;
             let description = arg.event._def.extendedProps.description;
-            let url = arg.event._def.url;
             var detail = "";
             if (location) {
-              detail += `<br/><small class="text-secondary">${location}</small>`;
+              detail += `<br/><small class="text-dark">${location}</small>`;
             }
             if (description) {
               detail += `<br/><small class="text-muted">${description}</small>`;
             }
-            return {html: `<a href="${url}"><b>${title}</b></a>${detail}`};
+            return {html: `<b class="text-primary">${title}</b>${detail}`};
           }
         },
         dayGrid: {
