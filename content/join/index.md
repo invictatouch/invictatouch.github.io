@@ -19,39 +19,11 @@ memberships:
     - One or two adult sessions each week
     - Coaching by England players
     - Opportunities to play in development tournaments and, subject to selection, elite National Touch Series events
-    - <b>Includes one free junior membership</b>
     - One month free when paid yearly
-
- - title: Family Membership
-   subtitle: Up to 2 adults + 2 children / 1 adult + 3 children
-   image: family_membership.jpg?a
-   bg_colour: secondary
-   text_colour: light
-   monthly_cost: £40
-   monthly_url: https://pay.gocardless.com/AL00161YEMCQJ7
-   yearly_cost: £440
-   yearly_url: https://pay.gocardless.com/AL00161YEJ9A4H
-   bullets:
-    - For two adults and up to two children (aged 5 to 17), or one adult and up to three children
-    - Full benefits of adult or junior membership for each family member
-    - One month free when paid yearly
-    - More than four players in your family? <a href="mailto:membership@invictatouch.com" class="alert-link">Contact us</a> for a bespoke discounted package
-
- - title: Junior Membership
-   image: junior_membership.jpg
-   bg_colour: info
-   text_colour: light
-   monthly_cost: £15
-   monthly_url: https://pay.gocardless.com/BRT000347BSH9BY
-   bullets:
-    - Weekly term-time sessions with age-graded coaching by England players
-    - Family fun sessions in the summer
-    - Fully qualified and DBS-checked coaches
-    - Access to adult sessions for players aged 14+
 
  - title: Pay-to-Play
    image: paytoplay.jpg
-   bg_colour: success
+   bg_colour: secondary
    text_colour: light
    yearly_cost: £10
    yearly_url: https://pay.gocardless.com/AL00160FE006BG
@@ -59,6 +31,16 @@ memberships:
     - Not ready to commit or can't play every week?
     - Join as a pay-to-play member for just £10 a year
     - Attend whichever sessions are convenient for you for <b>£7 per session</b>
+
+ - title: Juniors
+   image: junior_membership.jpg
+   bg_colour: info
+   text_colour: light
+   bullets:
+    - Weekly term-time sessions with age-graded coaching by England players
+    - Family fun sessions in the summer
+    - Fully qualified and DBS-checked coaches
+   details: Costs for junior sessions are under review and will be communicated when an updated programme of sessions is announced.
 ---
 
 Invicta Touch offers a range of different membership options, providing

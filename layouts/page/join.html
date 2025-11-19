@@ -4,7 +4,7 @@
   {{ with .Params.memberships }}
   <div class="row mt-4 gx-3">
     {{ range . }}
-    <div class="col-xl-3 col-md-6 mb-3">
+    <div class="col-xl-4 col-md-6 mb-3">
       <div class="card bg-{{ .bg_colour }} h-100 text-{{ .text_colour }} border-0">
         <div class="card-header">
           <h5 class="card-title text-center heavy mb-0">{{ .title }}</h5>
@@ -32,6 +32,9 @@
               <h1 class="text-{{ .bg_colour }}">{{ .yearly_cost }}</h1>
               <a href="{{ .yearly_url }}" target="_blank" class="btn btn-{{ .bg_colour }}">Pay Yearly</a><br/>
             </div>
+            {{ end }}
+            {{ if .details }}
+              <p class="text-muted mt-3"><em>{{ .details }}</em></p>
             {{ end }}
           </div>
         </div>
