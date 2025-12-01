@@ -1,6 +1,6 @@
 ---
 title: 'Invicta''s First European Tour is a Big Success'
-slug: 'invicta-enjoy-competitive-south-east-development-series-r1'
+slug: 'saint-nicolas-touch-tournament-2025'
 date: 2025-12-01T18:00:00
 image: invicta_on_tour.jpg
 carousel:
