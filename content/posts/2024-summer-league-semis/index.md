@@ -3,11 +3,11 @@ title: 'Summer League Semi-Final Line-up Confirmed'
 slug: 'summer-league-semi-final-line-up-confirmed'
 date: 2024-06-28T10:30:00
 image: 2024-summer-league-claire.jpg
+summary:
+  After seven weeks of hard-fought round-robin action the 2024 [Invicta Touch Summer League](/league/2024)
+  has reached the semi-final stage. The top four in each division will contest the main prizes
+  while the other teams play-off to be best of the rest.
 ---
-After seven weeks of hard-fought round-robin action the 2024 [Invicta Touch Summer League]({{<relref "/league/2024" >}})
-has reached the semi-final stage. The top four in each division will contest the main prizes
-while the other teams play-off to be best of the rest.
-<!--more-->
 Multiple former winners the Wombles topped Social League 1 ahead of the only team to have beaten
 them so far this season, Not Trying Enough. Below the top two, three teams were level on 19 points
 with Ruck Me Till I Scrum and last season's second tier winners, Human Touch, claiming the final two

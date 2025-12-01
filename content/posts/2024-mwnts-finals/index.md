@@ -3,11 +3,11 @@ title: 'Invicta Men Confirm Elite Status With MWNTS Top 5 Finish'
 slug: 'invicta-men-confirm-elite-status-with-mwnts-top-5-finish'
 date: 2024-05-19T18:00:00
 image: 2024-mwnts-finals.jpg
+summary:
+  Invicta Touch's elite men's team confirmed their status as one of the top teams in England with
+  a 5th-place finish in this season's Men's &amp; Women's National Touch Series at the final round
+  in Leamington Spa on Saturday.
 ---
-Invicta Touch's elite men's team confirmed their status as one of the top teams in England with
-a 5th-place finish in this season's Men's &amp; Women's National Touch Series at the final round
-in Leamington Spa on Saturday.
-<!--more-->
 For the first game of the day the stallions were handed the toughest possible quarter-final draw
 against number one seeds London Scorpions. Playing three players short of a full 14-man squad,
 Invicta lost 11-3 to the eventual champions.

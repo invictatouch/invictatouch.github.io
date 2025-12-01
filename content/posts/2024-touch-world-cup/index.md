@@ -3,10 +3,10 @@ title: 'Invicta Duo Win World Cup Medals for England'
 slug: 'invicta-duo-win-world-cup-medals-for-England'
 date: 2024-07-26T18:00:00
 image: 2024-world-cup.jpg
+summary:
+  Invicta Touch stalwarts Adrian Riggs and Spencer Nye helped England's masters teams to win bronze
+  medals at the recent Touch World Cup in Nottingham.
 ---
-Invicta Touch stalwarts Adrian Riggs and Spencer Nye helped England's masters teams to win bronze
-medals at the recent Touch World Cup in Nottingham.
-<!--more-->
 This was the first time that the Touch World Cup, first staged in 1988 and now in its tenth edition,
 had been hosted in England and there were teams from 35 countries involved across 13 men's, women's,
 and mixed divisions.

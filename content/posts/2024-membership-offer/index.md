@@ -7,11 +7,11 @@ carousel:
  - dog.jpg
  - dog_room.jpg
  - dog_breakfast.jpg
+summary:
+  Sign up for a full monthly or yearly Invicta Touch adult membership **by 4pm on 21st November** and
+  you'll be entered into a draw to win one of two one-night luxury bed-and-breakfast stays for two at
+  [The Dog at Wingham](https://www.thedog.co.uk).
 ---
-Sign up for a full monthly or yearly Invicta Touch adult membership **by 4pm on 21st November** and
-you'll be entered into a draw to win one of two one-night luxury bed-and-breakfast stays for two at
-[The Dog at Wingham](https://www.thedog.co.uk).
-<!--more-->
 To be eligible for one of these prizes kindly donated by our friends at The Dog,
 just [sign up for a full adult membership]({{<relref "/join" >}}) before the deadline.
 You can choose to pay by either monthly or yearly Direct Debit

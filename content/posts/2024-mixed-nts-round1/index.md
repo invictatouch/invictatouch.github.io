@@ -3,10 +3,10 @@ title: 'Invicta''s Elite Mixed Team Earn Promotion to Division One'
 slug: 'invicta-men-confirm-elite-status-with-mwnts-top-5'
 date: 2024-06-10T18:00:00
 image: 2024-mixed-nts-round1.jpg
+summary:
+  Invicta finished as Division Two runners-up at the first round of the mixed National Touch
+  Series in Burton-on-Trent at the weekend, earning promotion to Division One in the process.
 ---
-Invicta finished as Division Two runners-up at the first round of the mixed National Touch
-Series in Burton-on-Trent at the weekend, earning promotion to Division One in the process.
-<!--more-->
 With five debutants the team exceeded expectations, winning two out of three pool games to earn a
 place in the cup quarter-finals. A comfortable win over London Scorpions' third team was followed
 by a narrow victory over Cheltenham Tigers in the semi-final, which set-up a final rematch against

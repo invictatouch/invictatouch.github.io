@@ -7,10 +7,10 @@ carousel:
  - 2025-nationals.jpg
  - 2025-taipans-m40.jpg
  - 2025-sharks-m50.jpg
+summary:
+  Invicta Touch players featured in three of the winning teams at the Touch Nationals at the University
+  of Nottingham over the weekend, winning titles in the women's open, mixed open, and men's 40s divisions.
 ---
-Invicta Touch players featured in three of the winning teams at the Touch Nationals at the University
-of Nottingham over the weekend, winning titles in the women's open, mixed open, and men's 40s divisions.
-<!--more-->
 Lydia Ticehurst was part of the South East Sharks team that ended the South East Taipans' run
 of five consecutive women's opens titles with a dramatic drop-off finish in the final. Lydia had
 also been part of the last victorious Sharks team in 2018.

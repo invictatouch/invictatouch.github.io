@@ -3,11 +3,11 @@ title: 'Invicta Men Make Division One Debut'
 slug: 'invicta-men-make-division-one-debut'
 date: 2024-04-15T08:00:00
 image: 2024-mwnts-round1.jpg
+summary:
+  Having earned promotion from Division Two of the Men's & Women's National Touch Series last season,
+  Invicta's elite men's team took their place among the top eight men's sides in the country as the
+  2024 series got underway in Watford on Saturday.
 ---
-Having earned promotion from Division Two of the Men's & Women's National Touch Series last season,
-Invicta's elite men's team took their place among the top eight men's sides in the country as the
-2024 series got underway in Watford on Saturday.
-<!--more-->
 In the first game of the day the team came up just short in a close-fought encounter against Old
 Wesley. Despite a tight first half, the Irish side led 3-1 at the break.
 There was nothing between the teams in the second half and with three tries apiece, including two

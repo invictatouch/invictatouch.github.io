@@ -3,10 +3,10 @@ title: 'Invicta Players Selected in Regional Squads for Nationals'
 slug: 'invicta-players-selected-in-regional-squads-for-nationals'
 date: 2024-04-30T08:00:00
 image: seta.jpg
+summary:
+  Nine Invicta Touch players have been selected to represent the South East region at the Touch Nationals
+  in Nottingham over the May Day bank holiday weekend and a further five will feature for other regions.
 ---
-Nine Invicta Touch players have been selected to represent the South East region at the Touch Nationals
-in Nottingham over the May Day bank holiday weekend and a further five will feature for other regions.
-<!--more-->
 The Nationals features regional teams from around the country competing in open, senior, and masters
 divisions (the junior Nationals will be played in September). Teams representing the South East
 play as either the *Sharks* or the *Taipans* -- or both in the case of the open divisions.

@@ -3,11 +3,11 @@ title: 'Gus and Vaughn Win European Opens Gold Medals'
 slug: 'european-opens-touch-cup-medals'
 date: 2025-08-29T08:00:00
 image: opens.jpg
+summary:
+  Invicta's Gus Lister and Vaughn Meredith won men's open gold medals with England Mavericks at the
+  [European Opens Cup](https://internationaltouch.org/events/other-events/european-opens-cup-2025/)
+  in Italy last weekend while Lydia Ticehurst and Millie Bunn claimed bronze in the women's open.
 ---
-Invicta's Gus Lister and Vaughn Meredith won men's open gold medals with England Mavericks at the
-[European Opens Cup](https://internationaltouch.org/events/other-events/european-opens-cup-2025/)
-in Italy last weekend while Lydia Ticehurst and Millie Bunn claimed bronze in the women's open.
-<!--more-->
 England reinforced its status as the leading touch nation in Europe by entering three teams in both
 the men's and the women's events in Calvisano and coming away with five of the six medals on offer.
 Gus and Vaughn both got on the scoresheet in an all-England men's final between Mavericks and Storm,

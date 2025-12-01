@@ -9,10 +9,10 @@ carousel:
  - femalemvps.jpg
  - oldcitybar1.jpg
  - oldcitybar2.jpg
+summary:
+  The Invicta Touch Canterbury Summer League was won by Wombles for the second year in a row with
+  victory over Dump Him Quick in the Cup final.
 ---
-The Invicta Touch Canterbury Summer League was won by Wombles for the second year in a row with
-victory over Dump Him Quick in the Cup final.
-<!--more-->
 In the second-tier Plate final, Leg Catchers defeated Human Touch to claim the trophy. Trysexuals
 were victorious over Burgess Hodgson in the Bowl final, and Boys Become Even Bigger Men won
 against Touching Turkeys to claim the Shield.

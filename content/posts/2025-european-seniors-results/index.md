@@ -3,10 +3,10 @@ title: 'Medals All Round for Invicta''s Senior Internationals'
 slug: 'european-senior-touch-cup-medals'
 date: 2025-08-19T08:00:00
 image: seniors.jpg
+summary:
+  Six Invicta Touch players represented England at the European Senior Touch Cup in Stirling over the
+  weekend and all six came home with a medal after a strong showing from the English teams.
 ---
-Six Invicta Touch players represented England at the European Senior Touch Cup in Stirling over the
-weekend and all six came home with a medal after a strong showing from the English teams.
-<!--more-->
 Suz Wilson won silver in the
 [women’s 40s/45s division](https://internationaltouch.org/events/other-events/european-seniors-cup-2025/womens-40/)
 as the English 40s defeated their over-45s compatriots 7-3 in an all-England final.

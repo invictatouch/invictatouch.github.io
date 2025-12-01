@@ -3,10 +3,10 @@ title: 'Mixed Development Team Win Plate at SEDS Round 1'
 slug: 'invicta-enjoy-competitive-south-east-development-series-r1'
 date: 2025-10-14T18:00:00
 image: 2025-seds-round1.jpg
+summary:
+  Invicta's mixed development side won the Plate at Round 1 of the 12-team South East Development
+  Series in Horsham on Saturday, finishing 5th overall.
 ---
-Invicta's mixed development side won the Plate at Round 1 of the 12-team South East Development
-Series in Horsham on Saturday, finishing 5th overall.
-<!--more-->
 A full 14-strong playing contingent ranging in age from 15 to 59 made the trip to Sussex along with
 a trio of enthusiastic supporters.
 

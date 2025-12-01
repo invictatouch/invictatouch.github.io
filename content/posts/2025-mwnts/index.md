@@ -3,10 +3,10 @@ title: 'Invicta Women Promoted to Division One at First Attempt'
 slug: 'invicta-women-promoted-to-division-one-at-first-attempt'
 date: 2025-06-04T18:00:00
 image: 2025-mwnts-women.jpg
+summary:
+  Invicta Touch's women's team completed a successful first campaign in the Men's & Women's
+  National Touch Series by winning Division Two and earning promotion to Division One for the 2026 season.
 ---
-Invicta Touch's women's team completed a successful first campaign in the Men's & Women's
-National Touch Series by winning Division Two and earning promotion to Division One for the 2026 season.
-<!--more-->
 After initially intending to compete in Division Three in their debut season, the team were given a
 last-minute entry to Division Two ahead of the first round in Burton-on-Trent a few weeks ago.
 Undeterred by the step up in competition, the ladies were victorious on finals day in Leamington Spa

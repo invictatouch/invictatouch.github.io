@@ -3,11 +3,11 @@ title: 'Nine Players Selected in England Squads Ahead of 2026 Euros'
 slug: 'nine-players-selected-in-england-squads-for-euros'
 date: 2025-11-25T08:00:00
 image: vichy.jpg
+summary:
+  Nine Invicta Touch players have been selected in
+  [England Touch training squads](https://www.englandtouch.org.uk/play/playing-for-england/england-squads-202526/)
+  ahead of the European Touch Championships, which will take place in Vichy in France next July.
 ---
-Nine Invicta Touch players have been selected in
-[England Touch training squads](https://www.englandtouch.org.uk/play/playing-for-england/england-squads-202526/)
-ahead of the European Touch Championships, which will take place in Vichy in France next July.
-<!--more-->
 Following strong showings in the uncapped European [Opens]({{<relref "/posts/2025-european-opens-results" >}})
 and [Seniors]({{<relref "/posts/2025-european-seniors-results" >}}) cups this summer, nine Invicta
 players have been included for the beginning of England's 2026 Euros campaign.

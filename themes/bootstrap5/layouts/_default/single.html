@@ -22,12 +22,15 @@
   {{ end }}
   <div class="row">
     <div class="col-xl order-last order-xl-0">
-      {{ .Content }}
+      <p class="lead">
+        {{ .Summary }}
+      </p>
+      {{ .ContentWithoutSummary }}
     </div>
     {{ if .Params.carousel }}
     <div class="col-xl">
       {{ with .Params.carousel }}
-      <div id="carousel" class="carousel slide">
+      <div id="carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
           {{ range $index, $image := . }}
           <button type="button" data-bs-target="#carousel" data-bs-slide-to="{{ $index }}"{{ if eq $index 0 }} class="active"{{ end }}></button>

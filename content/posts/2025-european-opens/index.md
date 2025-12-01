@@ -3,10 +3,10 @@ title: 'Five Invicta Players set to Represent England in Italy'
 slug: 'five-invicta-players-in-european-opens-cup-teams'
 date: 2025-08-16T08:00:00
 image: opens.jpg
+summary:
+  England are sending three men's teams and three women's teams to the inaugural European Opens Touch
+  Cup in Italy next week and five Invicta Touch players are included.
 ---
-England are sending three men's teams and three women's teams to the inaugural European Opens Touch
-Cup in Italy next week and five Invicta Touch players are included.
-<!--more-->
 Following hot on the heels of the Atlantic Youth Touch Cup in Ireland at the beginning of August
 and the European Seniors Touch Cup in Scotland this week, the final international tournament of the
 summer features the elite of European touch &mdash; the open divisions.

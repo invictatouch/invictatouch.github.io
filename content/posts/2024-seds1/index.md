@@ -6,10 +6,10 @@ image: 2024-seds-round1.jpg
 carousel:
  - 2024-seds-round1.jpg
  - 2024-seds1-mvps.jpg
+summary:
+  This year's South East Development Series began in Horsham on Saturday with Invicta's
+  mixed development team contesting six hard-fought matches against other clubs from the region.
 ---
-This year's South East Development Series began in Horsham on Saturday with Invicta's
-mixed development team contesting six hard-fought matches against other clubs from the region.
-<!--more-->
 Nine Invicta players of varying ages and experience were joined by five of our friends
 from Tunbridge Wells Titans as the combined talents of Kent faced off against teams from Sussex,
 Surrey, and London. All of the matches were competitive and after three wins and three defeats

@@ -3,12 +3,12 @@ title: 'Six Selected to Play for England at European Senior Touch Cup'
 slug: 'invicta-players-selected-for-european-senior-touch-cup'
 date: 2025-08-09T08:00:00
 image: seniors.jpg
+summary:
+  Six of Invicta Touch's most experienced players have been selected to play in the England masters
+  teams that will be competing at the
+  [European Senior Touch Cup](https://www.zeeon.co.uk/gamehubplus/european-seniors-cup) in Scotland
+  next week.
 ---
-Six of Invicta Touch's most experienced players have been selected to play in the England masters
-teams that will be competing at the
-[European Senior Touch Cup](https://www.zeeon.co.uk/gamehubplus/european-seniors-cup) in Scotland
-next week.
-<!--more-->
 Suzanne Wilson will feature for England in the women's 40s/45s division in the three-day tournament
 at the University of Stirling, with Dan Dyer in the men's 45s, Adrian Riggs in the men's 50s, and
 Eddie French, Spencer Nye and Martin Reynard playing for the men's over-55s.
