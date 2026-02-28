@@ -11,9 +11,9 @@ memberships:
    image: adult_membership.jpg?a
    bg_colour: primary
    text_colour: light
-   monthly_cost: £25
+   monthly_cost: £18
    monthly_url: https://pay.gocardless.com/AL00160FDSE5RS
-   yearly_cost: £275
+   yearly_cost: £198
    yearly_url: https://pay.gocardless.com/AL00160FDYGMEY
    bullets:
     - One or two adult sessions each week
