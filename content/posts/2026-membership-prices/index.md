@@ -16,5 +16,6 @@ sessions a month it is now more cost-effective to pay monthly.
 For juniors we have scrapped monthly membership costs entirely. There is now a single £10 per year
 fee that covers all junior touch sessions (not including tournaments/leagues).
 
-For more details and to sign-up, see our membership page. If you are already a monthly or yearly
-member you do not need to do anything, your Direct Debit has been adjusted accordingly.
+For more details and to sign-up, see our [membership page]({{<relref "/join" >}}).
+If you are already a monthly or yearly member you do not need to do anything, your Direct Debit has
+been adjusted accordingly.
