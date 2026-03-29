@@ -18,8 +18,8 @@ adult_sessions:
    #map: https://maps.app.goo.gl/91uJXvv9en8fv48J8
    map: https://maps.app.goo.gl/qCnvq6WWKBu7Yyqi9
 junior_sessions:
- - day: Fridays
-   time: 4pm-5pm
+ - day: Wednesdays
+   time: 5:30pm-6:30pm
    venue: The Langton School for Boys
    surface: 3G
    map: https://maps.app.goo.gl/2f4hfiSwxZuwCxoPA

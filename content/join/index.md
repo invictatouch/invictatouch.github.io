@@ -36,11 +36,13 @@ memberships:
    image: junior_membership.jpg
    bg_colour: info
    text_colour: light
+   yearly_cost: £10
+   yearly_url: https://pay.gocardless.com/BRT0004WNC7H8B3
    bullets:
     - Weekly term-time sessions with age-graded coaching by England players
     - Family fun sessions in the summer
     - Fully qualified and DBS-checked coaches
-   details: Costs for junior sessions are under review and will be communicated when an updated programme of sessions is announced.
+    - One yearly payment covers all regular junior sessions (does not include tournaments/leagues)
 ---
 
 Invicta Touch offers a range of different membership options, providing
