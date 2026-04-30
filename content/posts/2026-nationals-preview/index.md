@@ -68,7 +68,7 @@ national team.
 
 #### Men's 50s
 The men's 50s is the only division that the South East has never won at the Nationals.
-**Martin Reynard** will looking to put that right with his Sharks team. They will also take on the
-Scotland men's 50s side in a friendly.
+**Martin Reynard** will be looking to put that right with his Sharks team. They will also take on
+the Scotland men's 50s side in a friendly.
 
 :tv: Monday 16:05 &middot; Final
