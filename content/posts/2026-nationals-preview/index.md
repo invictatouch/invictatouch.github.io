@@ -34,8 +34,8 @@ they won 12 months ago. They will also face the French national team in a friend
 
 #### Men's Open
 **Vaughn Meredith** is once again representing the South East Taipans in the men's open division
-as they aim to regain the title they last won in 2023. They will also take on France and Ireland
-in friendly matches.
+as they aim to regain the title they last won in 2023. **Gus Lister** is assistant coach. The
+Taipans will also take on France and Ireland in friendly matches.
 
 :tv: Monday 12:25 &middot; Semi-Finals \
 :tv: Monday 16:05 &middot; Final
