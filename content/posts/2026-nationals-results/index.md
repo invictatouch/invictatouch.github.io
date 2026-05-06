@@ -1,6 +1,6 @@
 ---
 title: 'Invicta''s Sharks, Taipans, and Saxons Retain Nationals Titles'
-slug: 'nationals-preview'
+slug: 'nationals-results'
 date: 2026-05-06T10:00:00
 image: nationals2026.jpg
 summary:
