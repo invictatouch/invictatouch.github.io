@@ -1,5 +1,6 @@
 ---
 title: 'Invicta Touch Calendar'
+type: page
 layout: calendar
 menus:
   main:

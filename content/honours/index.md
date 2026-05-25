@@ -1,5 +1,6 @@
 ---
 title: "Honours Board"
+type: page
 layout: honours
 menus:
   main:

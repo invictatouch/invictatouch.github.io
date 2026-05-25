@@ -1,5 +1,6 @@
 ---
 title: 'Join Invicta Touch Today'
+type: page
 layout: join
 menus:
   main:

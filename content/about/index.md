@@ -1,5 +1,6 @@
 ---
 title: 'About Invicta Touch'
+type: page
 layout: about
 menus:
   main:
