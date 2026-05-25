@@ -6,11 +6,15 @@ menus:
     weight: 1
 
 adult_sessions:
- - day: Wednesdays
+ - day: Mondays
    time: 6:30pm-8pm
    venue: The Langton School for Boys
    surface: Grass
    map: https://maps.app.goo.gl/2f4hfiSwxZuwCxoPA
+ - day: Wednesdays
+   time: 6:30pm-9pm
+   venue: Summer League
+   map: /league/2026/
    #map: https://maps.app.goo.gl/772Y5MnyPUUQXAEB9
    #map: https://maps.app.goo.gl/s6umr8E8XQsKT1TM6
    #map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
