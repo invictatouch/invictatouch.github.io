@@ -4,10 +4,6 @@ images:
  - file: wombles.jpg
  - file: femalemvps.jpg
  - file: oldcitybar.jpg
-menus:
-  main:
-    name: Summer League
-    weight: 5
 ---
 
 
