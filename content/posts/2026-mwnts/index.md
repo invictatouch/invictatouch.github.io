@@ -1,6 +1,6 @@
 ---
 title: 'Invicta Women Finish 8th on D1 Debut as Men Take 3rd in D2'
-slug: 'invicta-women-promoted-to-division-one-at-first-attempt'
+slug: 'mens-and-womens-national-touch-series'
 date: 2026-05-20T18:00:00
 image: 2026-mwnts-women.jpg
 carousel:
