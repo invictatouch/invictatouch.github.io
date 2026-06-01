@@ -144,7 +144,7 @@ tables:
       diff: -3
       points: 1
     - team: Exiles
-      colour: "#09317F"
+      colour: "#57273E"
       diff: -4
       points: 1
     - team: Live and Let Try
