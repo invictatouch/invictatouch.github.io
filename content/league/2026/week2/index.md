@@ -150,7 +150,7 @@ tables:
     - team: Exiles
       colour: "#57273E"
       diff: -6
-      points: 21
+      points: 2
     - team: Misfits
       colour: "#C5C2CA"
       diff: -7
