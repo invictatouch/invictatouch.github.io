@@ -138,14 +138,14 @@ tables:
       colour: "#A5323E"
       diff: 0
       points: 5
-    - team: Scoregasms
-      colour: "#469BC4"
-      diff: -3
-      points: 5
     - team: Oil Tankers
       colour: "#4EAC81"
       diff: -4
       points: 5
+    - team: Scoregasms
+      colour: "#469BC4"
+      diff: -3
+      points: 4
     - team: Exiles
       colour: "#57273E"
       diff: -6

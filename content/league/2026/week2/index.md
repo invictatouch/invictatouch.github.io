@@ -61,9 +61,9 @@ results:
        colour: "#2A2829"
        score: 13
      team2:
-       name: Scoregasms
+       name: Scoregasms (Forfeited)
        colour: "#469BC4"
-       score: "7"
+       score: 7
      pitch: 3
      time: 18:30
    - team1:
@@ -138,14 +138,14 @@ tables:
       colour: "#A5323E"
       diff: 0
       points: 5
-    - team: Scoregasms
-      colour: "#469BC4"
-      diff: -3
-      points: 5
     - team: Oil Tankers
       colour: "#4EAC81"
       diff: -4
       points: 5
+    - team: Scoregasms
+      colour: "#469BC4"
+      diff: -3
+      points: 4
     - team: Exiles
       colour: "#57273E"
       diff: -6
