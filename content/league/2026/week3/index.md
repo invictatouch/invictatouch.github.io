@@ -1,69 +1,69 @@
 ---
-title: 'Week 3 - Fixtures'
+title: 'Week 3 - Results'
 slug: 'week-3'
 matchday: 2026-05-27T18:30:00
 
-fixtures:
+results:
   premiership:
    - team1:
        name: Touching Turkeys
        colour: "#5A7C92"
-       score: 6
+       score: 7
      team2:
        name: Tucking Fouchers
        colour: "#5470AE"
-       score: 8
+       score: 7
      pitch: 2
      time: 18:30
    - team1:
        name: Trysexuals
        colour: "#E388A2"
-       score: 3
+       score: 11
      team2:
        name: Ruck Off
        colour: "#D6484B"
-       score: 12
+       score: 8
      pitch: 3
      time: 18:30
    - team1:
        name: Leg Catchers
        colour: "#8ABF64"
-       score: 2
+       score: 5
      team2:
        name: Wombles
        colour: "#355E4E"
-       score: 7
+       score: 4
      pitch: 2
      time: 19:20
    - team1:
        name: Human Touch
        colour: "#DC597B"
-       score: 3
+       score: 2
      team2:
        name: Flankers
        colour: "#C4FEBA"
-       score: 11
+       score: 13
      pitch: 1
      time: 20:10
   championship:
    - team1:
        name: Burgess Hodgson
        colour: "#2A2829"
-       score: 13
+       score: 10
      team2:
        name: Misfits
        colour: "#C5C2CA"
-       score: 1
+       score: 6
      pitch: 1
      time: 18:30
    - team1:
        name: Exiles
        colour: "#57273E"
-       score: 5
+       score: 9
      team2:
        name: Live and Let Try
        colour: "#A5323E"
-       score: 8
+       score: 4
      pitch: 1
      time: 19:20
    - team1:
@@ -73,17 +73,17 @@ fixtures:
      team2:
        name: Scoregasms
        colour: "#469BC4"
-       score: 7
+       score: 6
      pitch: 3
      time: 19:20
    - team1:
        name: Favershambles
        colour: "#34375F"
-       score: 4
+       score: 2
      team2:
        name: The Professors
        colour: "#433F45"
-       score: 7
+       score: 15
      pitch: 2
      time: 20:10
 
@@ -91,68 +91,68 @@ tables:
   premiership:
     - team: Flankers
       colour: "#C4FEBA"
-      diff: "+13"
-      points: 8
+      diff: "+24"
+      points: 12
     - team: Tucking Fouchers
       colour: "#5470AE"
       diff: "+7"
-      points: 8
-    - team: Ruck Off
-      colour: "#D6484B"
-      diff: "+5"
-      points: 5
+      points: 10
+    - team: Trysexuals
+      colour: "#E388A2"
+      diff: "+1"
+      points: 9
     - team: Touching Turkeys
       colour: "#5A7C92"
       diff: "+1"
-      points: 5
+      points: 7
+    - team: Ruck Off
+      colour: "#D6484B"
+      diff: "+1"
+      points: 6
     - team: Wombles
       colour: "#355E4E"
-      diff: 0
-      points: 5
-    - team: Trysexuals
-      colour: "#E388A2"
-      diff: "-2"
-      points: 5
+      diff: -1
+      points: 6
     - team: Leg Catchers
       colour: "#8ABF64"
-      diff: -8
-      points: 2
+      diff: -7
+      points: 6
     - team: Human Touch
       colour: "#DC597B"
-      diff: -15
-      points: 2
+      diff: -26
+      points: 3
   championship:
-    - team: Burgess Hodgson
-      colour: "#2A2829"
-      diff: "+14"
-      points: 8
     - team: The Professors
       colour: "#433F45"
-      diff: "+6"
-      points: 8
-    - team: Favershambles
-      colour: "#34375F"
-      diff: 0
-      points: 5
-    - team: Live and Let Try
-      colour: "#A5323E"
-      diff: 0
-      points: 5
-    - team: Oil Tankers
-      colour: "#4EAC81"
-      diff: -4
-      points: 5
+      diff: "+19"
+      points: 12
+    - team: Burgess Hodgson
+      colour: "#2A2829"
+      diff: "+18"
+      points: 12
     - team: Scoregasms
       colour: "#469BC4"
-      diff: -3
-      points: 4
+      diff: -2
+      points: 8
     - team: Exiles
       colour: "#57273E"
-      diff: -6
-      points: 2
+      diff: -1
+      points: 6
+    - team: Live and Let Try
+      colour: "#A5323E"
+      diff: -5
+      points: 6
+    - team: Oil Tankers
+      colour: "#4EAC81"
+      diff: -5
+      points: 6
+    - team: Favershambles
+      colour: "#34375F"
+      diff: -13
+      points: 6
     - team: Misfits
       colour: "#C5C2CA"
-      diff: -7
-      points: 2
+      diff: -11
+      points: 3
 ---
 
