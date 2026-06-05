@@ -1,91 +1,91 @@
 ---
-title: 'Week 3 - Results'
-slug: 'week-3'
-matchday: 2026-06-03T18:30:00
+title: 'Week 4 - Fixtures'
+slug: 'week-4'
+matchday: 2026-06-10T18:30:00
 
-results:
+fixtures:
   premiership:
    - team1:
        name: Touching Turkeys
        colour: "#5A7C92"
        score: 7
      team2:
-       name: Tucking Fouchers
-       colour: "#5470AE"
-       score: 7
-     pitch: 2
-     time: 18:30
-   - team1:
        name: Trysexuals
        colour: "#E388A2"
        score: 11
-     team2:
-       name: Ruck Off
-       colour: "#D6484B"
-       score: 8
-     pitch: 3
-     time: 18:30
+     pitch: TBC
+     time: TBC
    - team1:
        name: Leg Catchers
        colour: "#8ABF64"
        score: 5
      team2:
-       name: Wombles
-       colour: "#355E4E"
-       score: 4
-     pitch: 2
-     time: 19:20
-   - team1:
        name: Human Touch
        colour: "#DC597B"
        score: 2
+     pitch: TBC
+     time: TBC
+   - team1:
+       name: Wombles
+       colour: "#355E4E"
+       score: 4
      team2:
        name: Flankers
        colour: "#C4FEBA"
        score: 13
-     pitch: 1
-     time: 20:10
-  championship:
+     pitch: TBC
+     time: TBC
    - team1:
-       name: Burgess Hodgson
-       colour: "#2A2829"
-       score: 10
+       name: Tucking Fouchers
+       colour: "#5470AE"
+       score: 7
      team2:
-       name: Misfits
-       colour: "#C5C2CA"
-       score: 6
-     pitch: 1
-     time: 18:30
+       name: Ruck Off
+       colour: "#D6484B"
+       score: 8
+     pitch: TBC
+     time: TBC
+  championship:
    - team1:
        name: Exiles
        colour: "#57273E"
        score: 9
      team2:
-       name: Live and Let Try
-       colour: "#A5323E"
-       score: 4
-     pitch: 1
-     time: 19:20
-   - team1:
        name: Oil Tankers
        colour: "#4EAC81"
        score: 5
-     team2:
-       name: Scoregasms
-       colour: "#469BC4"
-       score: 6
-     pitch: 3
-     time: 19:20
+     pitch: TBC
+     time: TBC
    - team1:
        name: Favershambles
        colour: "#34375F"
        score: 2
      team2:
+       name: Burgess Hodgson
+       colour: "#2A2829"
+       score: 10
+     pitch: TBC
+     time: TBC
+   - team1:
        name: The Professors
        colour: "#433F45"
        score: 15
-     pitch: 2
-     time: 20:10
+     team2:
+       name: Misfits
+       colour: "#C5C2CA"
+       score: 6
+     pitch: TBC
+     time: TBC
+   - team1:
+       name: Live and Let Try
+       colour: "#A5323E"
+       score: 4
+     team2:
+       name: Scoregasms
+       colour: "#469BC4"
+       score: 6
+     pitch: TBC
+     time: TBC
 
 tables:
   premiership:
