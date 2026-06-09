@@ -6,6 +6,16 @@ matchday: 2026-06-10T18:30:00
 fixtures:
   premiership:
    - team1:
+       name: Tucking Fouchers
+       colour: "#5470AE"
+       score: 7
+     team2:
+       name: Ruck Off
+       colour: "#D6484B"
+       score: 8
+     pitch: 2
+     time: 18:30
+   - team1:
        name: Touching Turkeys
        colour: "#5A7C92"
        score: 7
@@ -13,8 +23,8 @@ fixtures:
        name: Trysexuals
        colour: "#E388A2"
        score: 11
-     pitch: TBC
-     time: TBC
+     pitch: 1
+     time: 19:20
    - team1:
        name: Leg Catchers
        colour: "#8ABF64"
@@ -23,8 +33,8 @@ fixtures:
        name: Human Touch
        colour: "#DC597B"
        score: 2
-     pitch: TBC
-     time: TBC
+     pitch: 3
+     time: 19:20
    - team1:
        name: Wombles
        colour: "#355E4E"
@@ -33,18 +43,8 @@ fixtures:
        name: Flankers
        colour: "#C4FEBA"
        score: 13
-     pitch: TBC
-     time: TBC
-   - team1:
-       name: Tucking Fouchers
-       colour: "#5470AE"
-       score: 7
-     team2:
-       name: Ruck Off
-       colour: "#D6484B"
-       score: 8
-     pitch: TBC
-     time: TBC
+     pitch: 1
+     time: 20:10
   championship:
    - team1:
        name: Exiles
@@ -54,8 +54,8 @@ fixtures:
        name: Oil Tankers
        colour: "#4EAC81"
        score: 5
-     pitch: TBC
-     time: TBC
+     pitch: 1
+     time: 18:30
    - team1:
        name: Favershambles
        colour: "#34375F"
@@ -64,8 +64,8 @@ fixtures:
        name: Burgess Hodgson
        colour: "#2A2829"
        score: 10
-     pitch: TBC
-     time: TBC
+     pitch: 3
+     time: 18:30
    - team1:
        name: The Professors
        colour: "#433F45"
@@ -74,8 +74,8 @@ fixtures:
        name: Misfits
        colour: "#C5C2CA"
        score: 6
-     pitch: TBC
-     time: TBC
+     pitch: 2
+     time: 19:20
    - team1:
        name: Live and Let Try
        colour: "#A5323E"
@@ -84,8 +84,8 @@ fixtures:
        name: Scoregasms
        colour: "#469BC4"
        score: 6
-     pitch: TBC
-     time: TBC
+     pitch: 2
+     time: 20:10
 
 tables:
   premiership:
