@@ -25,7 +25,7 @@ junior_sessions:
  - day: Wednesdays
    time: 5:30pm-6:30pm
    venue: The Langton School for Boys
-   surface: 3G
+   surface: Grass
    map: https://maps.app.goo.gl/2f4hfiSwxZuwCxoPA
    details: Term time only
 ---
