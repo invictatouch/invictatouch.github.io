@@ -1,14 +1,24 @@
 ---
-title: 'Week 6 - Results'
-slug: 'week-6'
-matchday: 2026-06-24T18:30:00
+title: 'Week 7 - Fixtures'
+slug: 'week-7'
+matchday: 2026-07-01T18:30:00
 
-results:
+fixtures:
   premiership:
    - team1:
-       name: Leg Catchers
-       colour: "#8ABF64"
-       score: 8
+       name: Tucking Fouchers
+       colour: "#5470AE"
+       score: 11
+     team2:
+       name: Trysexuals
+       colour: "#E388A2"
+       score: 0
+     pitch: 1
+     time: 18:30
+   - team1:
+       name: Touching Turkeys
+       colour: "#5A7C92"
+       score: 6
      team2:
        name: Ruck Off
        colour: "#D6484B"
@@ -16,34 +26,24 @@ results:
      pitch: 2
      time: 19:20
    - team1:
-       name: Touching Turkeys
-       colour: "#5A7C92"
-       score: 6
-     team2:
-       name: Flankers
-       colour: "#C4FEBA"
-       score: 6
-     pitch: 3
-     time: 19:20
-   - team1:
        name: Wombles
        colour: "#355E4E"
        score: 5
      team2:
-       name: Trysexuals (Forfeited)
-       colour: "#E388A2"
-       score: 0
-     pitch: 1
-     time: 20:10
-   - team1:
-       name: Tucking Fouchers
-       colour: "#5470AE"
-       score: 11
-     team2:
        name: Human Touch
        colour: "#DC597B"
        score: 4
-     pitch: 2
+     pitch: 3
+     time: 19:20
+   - team1:
+       name: Leg Catchers
+       colour: "#8ABF64"
+       score: 8
+     team2:
+       name: Flankers
+       colour: "#C4FEBA"
+       score: 6
+     pitch: 1
      time: 20:10
   championship:
    - team1:
@@ -51,41 +51,41 @@ results:
        colour: "#57273E"
        score: 6
      team2:
-       name: Misfits
-       colour: "#C5C2CA"
-       score: 6
-     pitch: 1
+       name: Scoregasms
+       colour: "#469BC4"
+       score: 12
+     pitch: 2
      time: 18:30
    - team1:
        name: The Professors
        colour: "#433F45"
        score: 5
      team2:
-       name: Oil Tankers
-       colour: "#4EAC81"
-       score: 2
-     pitch: 2
-     time: 18:30
-   - team1:
-       name: Favershambles
-       colour: "#34375F"
-       score: 6
-     team2:
-       name: Scoregasms
-       colour: "#469BC4"
-       score: 12
-     pitch: 3
-     time: 18:30
-   - team1:
-       name: Live and Let Try
-       colour: "#A5323E"
-       score: 4
-     team2:
        name: Burgess Hodgson
        colour: "#2A2829"
        score: 10
      pitch: 1
      time: 19:20
+   - team1:
+       name: Favershambles
+       colour: "#34375F"
+       score: 6
+     team2:
+       name: Misfits
+       colour: "#C5C2CA"
+       score: 6
+     pitch: 2
+     time: 20:10
+   - team1:
+       name: Live and Let Try
+       colour: "#A5323E"
+       score: 4
+     team2:
+       name: Oil Tankers
+       colour: "#4EAC81"
+       score: 2
+     pitch: 3
+     time: 20:10
 
 tables:
   premiership:
