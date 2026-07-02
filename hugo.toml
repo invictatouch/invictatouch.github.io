@@ -15,3 +15,9 @@ enableEmoji = true
     posts = '/news/:year/:month/:slug/'
   [permalinks.section]
     posts = '/news/'
+
+[menus]
+  [[menus.main]]
+    name = 'Shop'
+    url = 'https://pacific-drift.com/collections/invicta-touch'
+    weight = 6

@@ -5,7 +5,7 @@ layout: honours
 menus:
   main:
     name: Honours Board
-    weight: 6
+    weight: 7
 
 caps:
  - forename: Dan

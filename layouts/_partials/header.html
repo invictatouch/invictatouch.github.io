@@ -24,7 +24,8 @@
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
         <li class="nav-item">
-          <a class="nav-link{{ if or ($currentPage.IsMenuCurrent .Menu .) ($currentPage.HasMenuCurrent .Menu .) }} active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+          <a class="nav-link{{ if or ($currentPage.IsMenuCurrent .Menu .) ($currentPage.HasMenuCurrent .Menu .) }} active{{ end }}"
+             href="{{ .URL }}"{{if eq .Page nil }} target="_blank"{{ end }}>{{ .Name }}</a>
         </li>
         {{ end }}
       </ul>
