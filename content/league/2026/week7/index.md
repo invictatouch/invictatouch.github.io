@@ -1,16 +1,16 @@
 ---
-title: 'Week 7 - Fixtures'
+title: 'Week 7 - Results'
 slug: 'week-7'
 matchday: 2026-07-01T18:30:00
 
-fixtures:
+results:
   premiership:
    - team1:
        name: Tucking Fouchers
        colour: "#5470AE"
-       score: 11
+       score: 5
      team2:
-       name: Trysexuals
+       name: Trysexuals (Forfeited)
        colour: "#E388A2"
        score: 0
      pitch: 1
@@ -18,21 +18,21 @@ fixtures:
    - team1:
        name: Touching Turkeys
        colour: "#5A7C92"
-       score: 6
+       score: 7
      team2:
        name: Ruck Off
        colour: "#D6484B"
-       score: 8
+       score: 1
      pitch: 2
      time: 19:20
    - team1:
        name: Wombles
        colour: "#355E4E"
-       score: 5
+       score: 3
      team2:
        name: Human Touch
        colour: "#DC597B"
-       score: 4
+       score: 1
      pitch: 3
      time: 19:20
    - team1:
@@ -42,18 +42,18 @@ fixtures:
      team2:
        name: Flankers
        colour: "#C4FEBA"
-       score: 6
+       score: 9
      pitch: 1
      time: 20:10
   championship:
    - team1:
        name: Exiles
        colour: "#57273E"
-       score: 6
+       score: 12
      team2:
        name: Scoregasms
        colour: "#469BC4"
-       score: 12
+       score: 9
      pitch: 2
      time: 18:30
    - team1:
@@ -61,29 +61,29 @@ fixtures:
        colour: "#433F45"
        score: 5
      team2:
-       name: Burgess Hodgson
+       name: Burgess Hodgson (Forfeited)
        colour: "#2A2829"
-       score: 10
+       score: 0
      pitch: 1
      time: 19:20
    - team1:
        name: Favershambles
        colour: "#34375F"
-       score: 6
+       score: 1
      team2:
        name: Misfits
        colour: "#C5C2CA"
-       score: 6
+       score: 8
      pitch: 2
      time: 20:10
    - team1:
        name: Live and Let Try
        colour: "#A5323E"
-       score: 4
+       score: 2
      team2:
        name: Oil Tankers
        colour: "#4EAC81"
-       score: 2
+       score: 6
      pitch: 3
      time: 20:10
 
@@ -91,68 +91,68 @@ tables:
   premiership:
     - team: Tucking Fouchers
       colour: "#5470AE"
-      diff: "+24"
-      points: 22
+      diff: "+29"
+      points: 26
     - team: Flankers
       colour: "#C4FEBA"
-      diff: "+20"
-      points: 19
-    - team: Leg Catchers
-      colour: "#8ABF64"
-      diff: "+4"
-      points: 16
+      diff: "+21"
+      points: 23
     - team: Wombles
       colour: "#355E4E"
-      diff: "+6"
-      points: 15
+      diff: "+8"
+      points: 19
     - team: Touching Turkeys
       colour: "#5A7C92"
-      diff: "0"
-      points: 14
+      diff: "+6"
+      points: 18
+    - team: Leg Catchers
+      colour: "#8ABF64"
+      diff: "+3"
+      points: 17
     - team: Trysexuals
       colour: "#E388A2"
-      diff: "-5"
+      diff: "-10"
       points: 14
     - team: Ruck Off
       colour: "#D6484B"
-      diff: "-9"
-      points: 10
+      diff: "-15"
+      points: 11
     - team: Human Touch
       colour: "#DC597B"
-      diff: -40
-      points: 6
+      diff: -42
+      points: 7
   championship:
-    - team: Burgess Hodgson
-      colour: "#2A2829"
-      diff: "+36"
-      points: 24
     - team: The Professors
       colour: "#433F45"
-      diff: "+30"
+      diff: "+35"
+      points: 28
+    - team: Burgess Hodgson
+      colour: "#2A2829"
+      diff: "+31"
       points: 24
-    - team: Scoregasms
-      colour: "#469BC4"
-      diff: "+12"
-      points: 17
     - team: Oil Tankers
       colour: "#4EAC81"
-      diff: -4
-      points: 15
+      diff: 0
+      points: 19
+    - team: Scoregasms
+      colour: "#469BC4"
+      diff: "+9"
+      points: 18
     - team: Exiles
       colour: "#57273E"
-      diff: -4
-      points: 10
+      diff: -1
+      points: 14
     - team: Misfits
       colour: "#C5C2CA"
-      diff: -11
-      points: 10
+      diff: -4
+      points: 14
     - team: Live and Let Try
       colour: "#A5323E"
-      diff: -27
-      points: 9
+      diff: -31
+      points: 10
     - team: Favershambles
       colour: "#34375F"
-      diff: -32
-      points: 9
+      diff: -39
+      points: 10
 ---
 
