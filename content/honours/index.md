@@ -74,7 +74,6 @@ caps:
    photo: eliotnye.jpg
    country: England
    divisions:
-    - XO
     - M20
     - B18
     - X15
@@ -115,7 +114,6 @@ caps:
    photo: alicesummers.jpg
    country: England
    divisions:
-    - XO
     - W20
     - G18
     - X15
