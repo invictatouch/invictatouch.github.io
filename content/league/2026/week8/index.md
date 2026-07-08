@@ -16,8 +16,8 @@ fixtures:
          name: Touching Turkeys
          colour: "#5A7C92"
          score: 5
-       pitch: TBC
-       time: TBC
+       pitch: 1
+       time: 18:30
      - team1:
          name: Flankers
          colour: "#C4FEBA"
@@ -26,8 +26,8 @@ fixtures:
          name: Wombles
          colour: "#355E4E"
          score: 5
-       pitch: TBC
-       time: TBC
+       pitch: 1
+       time: 20:10
     plate:
      - team1:
          name: Leg Catchers
@@ -37,8 +37,8 @@ fixtures:
          name: Human Touch
          colour: "#DC597B"
          score: 7
-       pitch: TBC
-       time: TBC
+       pitch: 2
+       time: 19:20
      - team1:
          name: Trysexuals
          colour: "#E388A2"
@@ -47,8 +47,8 @@ fixtures:
          name: Ruck Off
          colour: "#D6484B"
          score: 9
-       pitch: TBC
-       time: TBC
+       pitch: 18:30
+       time: 3
   championship:
     cup:
      - team1:
@@ -59,8 +59,8 @@ fixtures:
          name: Scoregasms
          colour: "#469BC4"
          score: 0
-       pitch: TBC
-       time: TBC
+       pitch: 3
+       time: 19:20
      - team1:
          name: Burgess Hodgson
          colour: "#2A2829"
@@ -69,8 +69,8 @@ fixtures:
          name: Oil Tankers
          colour: "#4EAC81"
          score: 1
-       pitch: TBC
-       time: TBC
+       pitch: 18:30
+       time: 2
     plate:
      - team1:
          name: Exiles
@@ -80,8 +80,8 @@ fixtures:
          name: Favershambles
          colour: "#34375F"
          score: 3
-       pitch: TBC
-       time: TBC
+       pitch: 1
+       time: 19:20
      - team1:
          name: Misfits
          colour: "#C5C2CA"
@@ -90,8 +90,8 @@ fixtures:
          name: Live and Let Try
          colour: "#A5323E"
          score: 5
-       pitch: TBC
-       time: TBC
+       pitch: 2
+       time: 20:10
 ---
 
 
