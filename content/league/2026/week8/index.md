@@ -30,6 +30,16 @@ fixtures:
        time: 20:10
     plate:
      - team1:
+         name: Trysexuals
+         colour: "#E388A2"
+         score: 4
+       team2:
+         name: Ruck Off
+         colour: "#D6484B"
+         score: 9
+       pitch: 3
+       time: 18:30
+     - team1:
          name: Leg Catchers
          colour: "#8ABF64"
          score: 11
@@ -39,18 +49,18 @@ fixtures:
          score: 7
        pitch: 2
        time: 19:20
-     - team1:
-         name: Trysexuals
-         colour: "#E388A2"
-         score: 4
-       team2:
-         name: Ruck Off
-         colour: "#D6484B"
-         score: 9
-       pitch: 18:30
-       time: 3
   championship:
     cup:
+     - team1:
+         name: Burgess Hodgson
+         colour: "#2A2829"
+         score: 6
+       team2:
+         name: Oil Tankers
+         colour: "#4EAC81"
+         score: 1
+       pitch: 2
+       time: 18:30
      - team1:
          name: The Professors
          colour: "#433F45"
@@ -61,16 +71,6 @@ fixtures:
          score: 0
        pitch: 3
        time: 19:20
-     - team1:
-         name: Burgess Hodgson
-         colour: "#2A2829"
-         score: 6
-       team2:
-         name: Oil Tankers
-         colour: "#4EAC81"
-         score: 1
-       pitch: 18:30
-       time: 2
     plate:
      - team1:
          name: Exiles
