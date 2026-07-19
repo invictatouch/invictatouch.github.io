@@ -78,7 +78,7 @@ weeks every summer.
 
 #### Competitive Touch
 Our elite mixed and single-gender teams compete against the top clubs in the country in the top
-division of the National Touch Series and our development side plays in the South East Development
+divisions of the National Touch Series and our development side plays in the South East Development
 Series and other events. Our players are frequently selected to represent the South East Sharks and
 South East Taipans in the Touch Nationals each year and many of our current and former players have
 gone on to [play for England]({{<relref "/honours" >}}), at all levels from under-15s to over-55s.
