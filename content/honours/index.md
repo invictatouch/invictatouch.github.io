@@ -14,6 +14,7 @@ caps:
    country: England
    divisions:
     - M40
+    - M45
  - forename: Dan
    surname: Eaglestone
    photo: daneaglestone.jpg
@@ -91,12 +92,14 @@ caps:
    country: England
    divisions:
     - M50
+    - M55
  - forename: Adrian
    surname: Riggs
    photo: adrianriggs.jpg
    country: England
    divisions:
     - M50
+    - M55
  - forename: Michael
    surname: Roberts
    photo: michaelroberts.jpg
@@ -114,6 +117,7 @@ caps:
    photo: alicesummers.jpg
    country: England
    divisions:
+    - WO
     - W20
     - G18
     - X15
@@ -129,6 +133,7 @@ caps:
    country: England
    divisions:
     - WO
+    - XO
     - G18
  - forename: Suz
    surname: Wilson
