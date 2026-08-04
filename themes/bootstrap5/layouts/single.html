@@ -51,12 +51,14 @@
         </button>
       </div>
       {{ end }}
+      {{ if .Params.credits }}<p class="text-muted text-end small fst-italic">{{ .Params.credits|safeHTML }}</p>{{ end }}
     </div>
     {{ else if .Params.image }}
     <div class="col-xl">
       {{ with .Resources.GetMatch .Params.image }}
       <img src="{{ .RelPermalink }}" class="img-fluid mb-3 rounded" style="border: 1px solid rgba(0, 0, 0, .1);"/>
       {{ end }}
+      {{ if .Params.credits }}<p class="text-muted text-end small fst-italic">{{ .Params.credits|safeHTML }}</p>{{ end }}
     </div>
     {{ end }}
   </div>
