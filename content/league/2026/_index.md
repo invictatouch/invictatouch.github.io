@@ -8,6 +8,33 @@ images:
  - file: tom.jpg
  - file: erin.jpg
  - file: danref.jpg
+winners:
+  premiership:
+    gold:
+      team: Tucking Fouchers
+      colour: "#5470AE"
+    silver:
+      team: Flankers
+      colour: "#C4FEBA"
+    bronze:
+      team: Wombles
+      colour: "#355E4E"
+    plate:
+      team: Leg Catchers
+      colour: "#8ABF64"
+  championship:
+    gold:
+      team: Burgess Hodgson
+      colour: "#2A2829"
+    silver:
+      team: Scoregasms
+      colour: "#469BC4"
+    bronze:
+      team: The Professors
+      colour: "#433F45"
+    plate:
+      team: Exiles
+      colour: "#57273E"
 ---
 
 
