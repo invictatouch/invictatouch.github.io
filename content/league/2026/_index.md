@@ -17,8 +17,8 @@ winners:
       team: Flankers
       colour: "#C4FEBA"
     bronze:
-      team: Wombles
-      colour: "#355E4E"
+      team: Touching Turkeys
+      colour: "#5A7C92"
     plate:
       team: Leg Catchers
       colour: "#8ABF64"

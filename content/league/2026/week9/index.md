@@ -12,11 +12,11 @@ results:
      - team1:
          name: Tucking Fouchers
          colour: "#5470AE"
-         score: TBC
+         score: 9
        team2:
          name: Flankers
          colour: "#C4FEBA"
-         score: TBC
+         score: 8
        pitch: 2
        time: 20:10
     bronze:
@@ -57,11 +57,11 @@ results:
      - team1:
          name: Burgess Hodgson
          colour: "#2A2829"
-         score: TBC
+         score: 9
        team2:
          name: Scoregasms
          colour: "#469BC4"
-         score: TBC
+         score: 4
        pitch: 2
        time: 19:20
     bronze:
@@ -79,11 +79,11 @@ results:
      - team1:
          name: Exiles
          colour: "#57273E"
-         score: TBC
+         score: 8
        team2:
          name: Misfits
          colour: "#C5C2CA"
-         score: TBC
+         score: 2
        pitch: 3
        time: 19:20
     spoon:
