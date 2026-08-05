@@ -23,11 +23,11 @@ results:
      - team1:
          name: Wombles
          colour: "#355E4E"
-         score: TBC
+         score: 6
        team2:
          name: Touching Turkeys
          colour: "#5A7C92"
-         score: TBC
+         score: 7
        pitch: 1
        time: 20:10
     plate:
