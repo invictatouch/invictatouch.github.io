@@ -6,17 +6,14 @@ menus:
     weight: 1
 
 adult_sessions:
- - day: Wednesdays
+ - day: Mondays
    time: 6:30pm-8pm
-   venue: The Langton School for Boys
-   surface: Grass
-   map: https://maps.app.goo.gl/2f4hfiSwxZuwCxoPA
-   #map: https://maps.app.goo.gl/772Y5MnyPUUQXAEB9
-   #map: https://maps.app.goo.gl/s6umr8E8XQsKT1TM6
-   #map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
-   #map: https://maps.app.goo.gl/XkzJVRPB3tLPvRww8
-   #map: https://maps.app.goo.gl/91uJXvv9en8fv48J8
-   #map: https://maps.app.goo.gl/qCnvq6WWKBu7Yyqi9
+   venue: Aylesham Welfare Leisure Centre
+   surface: 3G
+   #Langton map: https://maps.app.goo.gl/2f4hfiSwxZuwCxoPA
+   #Bridge map: https://maps.app.goo.gl/772Y5MnyPUUQXAEB9
+   #CRFC map: https://maps.app.goo.gl/yArvrks5jsye4FYL7
+   map: https://maps.app.goo.gl/qCnvq6WWKBu7Yyqi9
 junior_sessions:
  - day: Wednesdays
    time: 5:30pm-6:30pm
