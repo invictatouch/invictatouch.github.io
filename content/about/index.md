@@ -40,12 +40,6 @@ committee:
     - Chair
     - Adults &amp; Universities
    mugshot: vaughn.jpg
- - forename: Jack
-   surname: Thomson
-   roles:
-    - Social Events
-    - Medical
-   mugshot: placeholder.png
  - forename: Lydia
    surname: Ticehurst
    roles:
