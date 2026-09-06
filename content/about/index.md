@@ -33,7 +33,7 @@ committee:
    surname: Lister
    roles:
     - Equipment &amp; Merchandise
-   mugshot: gus.jpg?2
+   mugshot: gus.jpg
  - forename: Vaughn
    surname: Meredith
    roles:
