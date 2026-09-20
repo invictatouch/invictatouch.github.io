@@ -20,15 +20,11 @@
   {{ else }}
   <h1>{{ .Title }}</h1>
   {{ end }}
-  <div class="row">
-    <div class="col-xl order-last order-xl-0">
-      <p class="lead">
-        {{ .Summary }}
-      </p>
-      {{ .ContentWithoutSummary }}
-    </div>
+  <p class="lead">
+    {{ .Summary }}
+  </p>
+  <div class="float-lg-end col-lg-6 ms-lg-4">
     {{ if .Params.carousel }}
-    <div class="col-xl">
       {{ with .Params.carousel }}
       <div id="carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
@@ -52,14 +48,13 @@
       </div>
       {{ end }}
       {{ if .Params.credits }}<p class="text-muted text-end small fst-italic">{{ .Params.credits|safeHTML }}</p>{{ end }}
-    </div>
     {{ else if .Params.image }}
-    <div class="col-xl">
       {{ with .Resources.GetMatch .Params.image }}
       <img src="{{ .RelPermalink }}" class="img-fluid mb-3 rounded" style="border: 1px solid rgba(0, 0, 0, .1);"/>
       {{ end }}
       {{ if .Params.credits }}<p class="text-muted text-end small fst-italic">{{ .Params.credits|safeHTML }}</p>{{ end }}
-    </div>
     {{ end }}
   </div>
+  {{ .ContentWithoutSummary }}
+  <div class="clearfix"></div>
 {{ end }}
