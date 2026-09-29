@@ -4,8 +4,8 @@ slug: 'asia-pacific-seniors'
 date: 2026-09-21T18:00:00
 image: asptc.jpg
 summary:
-  Three Invicta Touch players are heading to Japan in October as England take on the world's best
-  teams in the inaugural Asia-Pacific Seniors Touch Cup.
+  Three Invicta Touch players and one coach are heading to Japan in October as England take on the
+  world's best teams in the inaugural Asia-Pacific Seniors Touch Cup.
 ---
 Although the event is primarily for nations in the Asia-Pacific region, other countries, including
 England, have been invited to take part.
@@ -21,6 +21,9 @@ hosts Japan over the four days.
 In the men's 45s Dan Dyer retains his place in the England team that won Euros silver in the summer
 as they face world champions Australia, World Cup runners-up New Zealand, hosts Japan, and Chinese
 Taipei in their division.
+
+Invicta's Eddie French will also be making the trip to Japan as assistant coach for the England
+men's 50s team.
 
 The Asia-Pacific Seniors Touch Cup begins on Wednesday 7th October at the Tochigi Sports Park in
 Utsunomiya and concludes with the medal matches on Saturday 10th October. You can follow the
