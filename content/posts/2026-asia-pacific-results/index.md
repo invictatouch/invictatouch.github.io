@@ -17,7 +17,7 @@ of the bronzes on offer, matching the total won by hosts Japan.
 Invicta's Eddie French was in Japan as assistant coach for the England men's 50s. After a
 last-second intercept had seen them lose 9-8 to Japan in the pool stage on day 1, wins over
 Malaysia and Singapore earned them a rematch with the home team in the bronze final on day 4.
-However, the outcome was the same as England again lost by a single score, 7-6, to finish fourth.
+However, the outcome was the same as England again lost by a single score (7-6), to finish fourth.
 
 Eddie was also providing coaching support for the men's 45s.
 Few England men's teams have looked more competitive against the Antipodean giants than the 45s did
@@ -33,8 +33,7 @@ start to prevail 8-7. The hosts had their revenge in a similarly close match the
 winning 6-5. The bronze medal match was equally tight, but England led early and held on to take
 the win 6-5.
 
-In the men's 55s Martin Reynard and Adrian Riggs were unable to add their medal
-collections following gold at the Euros in July. As in other divisions, England and Japan were
-well matched, with a 4-3 win to the hosts and a 2-2 draw setting up a play-off for the bronze medal.
-The two sides could not be separated in normal time but it was Japan who eventually took the 3-2 win
-after a drop-off.
+In the men's 55s Martin Reynard and Adrian Riggs were unable to add another medal to the gold they
+won at the Euros in July. As in other divisions, England and Japan were well matched, with a 4-3 win
+to the hosts and a 2-2 draw setting up a play-off for the bronze medal. The two sides could not be
+separated in normal time but it was Japan who eventually took the 3-2 win after a drop-off.
