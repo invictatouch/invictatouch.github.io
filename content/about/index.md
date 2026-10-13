@@ -44,7 +44,7 @@ committee:
    surname: Ticehurst
    roles:
     - Social Media
-   mugshot: lydia.jpg
+   mugshot: lydia.jpg?2026
  - forename: Suz
    surname: Wilson
    roles:
