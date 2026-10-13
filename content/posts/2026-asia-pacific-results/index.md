@@ -20,7 +20,7 @@ Malaysia and Singapore earned them a rematch with the home team in the bronze fi
 However, the outcome was the same as England again lost by a single score, 7-6, to finish fourth.
 
 Eddie was also providing coaching support for the men's 45s.
-Few England men's teams have looked more competitive with the antipodean giants than the 45s did
+Few England men's teams have looked more competitive against the Antipodean giants than the 45s did
 at the Tochigi Sports Park. England, with Invicta's Dan Dyer on the wing, led or were level with New
 Zealand for significant portions of their two pool games before eventually losing 6-3 and 8-4. The
 first game against Australia was similarly close with just one score in it at half-time before the
@@ -33,7 +33,7 @@ start to prevail 8-7. The hosts had their revenge in a similarly close match the
 winning 6-5. The bronze medal match was equally tight, but England led early and held on to take
 the win 6-5.
 
-In the men's 55s Martin Reynard and Adrian Riggs were unable to add another medal to their
+In the men's 55s Martin Reynard and Adrian Riggs were unable to add their medal
 collections following gold at the Euros in July. As in other divisions, England and Japan were
 well matched, with a 4-3 win to the hosts and a 2-2 draw setting up a play-off for the bronze medal.
 The two sides could not be separated in normal time but it was Japan who eventually took the 3-2 win
