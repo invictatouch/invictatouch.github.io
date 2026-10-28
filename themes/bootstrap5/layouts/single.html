@@ -20,9 +20,6 @@
   {{ else }}
   <h1>{{ .Title }}</h1>
   {{ end }}
-  <p class="lead">
-    {{ .Summary }}
-  </p>
   <div class="float-lg-end col-lg-6 ms-lg-4">
     {{ if .Params.carousel }}
       {{ with .Params.carousel }}
@@ -55,6 +52,8 @@
       {{ if .Params.credits }}<p class="text-muted text-end small fst-italic">{{ .Params.credits|safeHTML }}</p>{{ end }}
     {{ end }}
   </div>
+  <p class="lead">
+    {{ .Summary }}
+  </p>
   {{ .ContentWithoutSummary }}
-  <div class="clearfix"></div>
 {{ end }}
