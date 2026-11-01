@@ -6,7 +6,6 @@
   .G18, .W20, .W23, .W27, .W35, .W40 {background-color: #c069; font-weight: normal;}
   .XO {background-color: #627;}
   .X15, .X18, .X20, .X30 {background-color: #6279; font-weight: normal;}
-  .REF {background-color: #bbb; font-weight: normal;}
   .B18::after {content: "Boys' 18s";}
   .M20::after {content: "Men's 20s";}
   .MO::after {content: "Men's Open";}
@@ -27,7 +26,6 @@
   .X20::after {content: "Mixed 20s";}
   .XO::after {content: 'Mixed Open';}
   .X30::after {content: "Mixed 30s";}
-  .REF::after {content: 'Referee';}
   .short {display: none;}
 </style>
 {{ end }}
@@ -35,25 +33,41 @@
 <div class="lead mb-4">
   {{ .Content }}
 </div>
-{{ with .Params.caps }}
-  <div class="row">
+{{ with .Params.opens }}
+  <h2 class="border-bottom mb-3">Opens</h2>
+  <p class="text-muted">
+    The international open divisions are the pinnacle of our sport.
+    To be selected to play for your country's men's open, women's open, or mixed open team
+    is to be recognised as one of the best players in your country, regardless of age.
+    The following Invicta players have achieved that distinction.
+  </p>
+  <div class="row g-2 mb-4">
   {{ range . }}
-    <div class="col-xxl-2 col-lg-3 col-md-4 col-6 mb-4">
-      <img src="{{ if .photo }}{{ .photo }}{{ else }}placeholder.png{{ end }}" alt="{{ .name }}" class="rounded float-start me-2" width="50" height="50" />
-      <div class="d-flex align-items-center flex-wrap">
-        <h5><span class="heavy">{{ .forename }}</span><br/>{{ .surname }}</h5>
-      </div>
-      {{ $country := .country }}
-      {{ range .divisions }}
-       <span class="badge w-100 {{ . }} text-start">
-         {{ if $country }}
-           <img src="/images/flags/{{ lower $country }}.svg" alt="{{ $country }}"
-                width="16" height="12" class="float-start me-2"/>
-         {{ end }}
-         {{ $country }} <span class="short">{{ . }}</span>
-       </span>
-      {{ end }}
-    </div>
+    {{ partial "opensplayer.html" . }}
+  {{ end }}
+  </div>
+{{ end }}
+{{ with .Params.seniors }}
+  <h3 class="border-bottom mb-3">Seniors &amp; Masters</h3>
+  <div class="row g-2 mb-4">
+  {{ range . }}
+    {{ partial "cappedplayer.html" . }}
+  {{ end }}
+  </div>
+{{ end }}
+{{ with .Params.juniors }}
+  <h3 class="border-bottom mb-3">Juniors &amp; Youth</h3>
+  <div class="row g-2 mb-4">
+  {{ range . }}
+    {{ partial "cappedplayer.html" . }}
+  {{ end }}
+  </div>
+{{ end }}
+{{ with .Params.referees }}
+  <h3 class="border-bottom mb-3">Referees</h3>
+  <div class="row g-2 mb-4">
+  {{ range . }}
+    {{ partial "cappedplayer.html" . }}
   {{ end }}
   </div>
 {{ end }}

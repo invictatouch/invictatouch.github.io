@@ -1,0 +1,23 @@
+<div class="col-xxl-3 col-lg-3 col-md-4 col-12">
+  <div class="card h-100 bg-light">
+    <div class="card-body">
+      <img src="{{ if .photo }}{{ .photo }}{{ else }}placeholder.png{{ end }}" alt="{{ .name }}" class="rounded float-start me-2" width="60" height="60" />
+      <div class="d-flex align-items-center flex-wrap">
+        <h4><span class="heavy">{{ .forename }}</span><br/>{{ .surname }}</h4>
+      </div>
+      {{ $country := .country }}
+      {{ range .divisions }}
+      <span class="badge w-100 {{ . }} text-start">
+        {{ if $country }}
+          <img src="/images/flags/{{ lower $country }}.svg" alt="{{ $country }}"
+               width="16" height="12" class="float-start me-2"/>
+        {{ end }}
+        {{ $country }} <span class="short">{{ . }}</span>
+      </span>
+      {{ end }}
+      <p class="small text-muted mt-2">{{ .bio }}</p>
+    </div>
+  </div>
+</div>
+
+

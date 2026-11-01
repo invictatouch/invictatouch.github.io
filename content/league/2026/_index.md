@@ -1,9 +1,5 @@
 ---
 title: '2026 Summer League'
-menus:
-  main:
-    name: Summer League
-    weight: 5
 images:
  - file: tom.jpg
  - file: erin.jpg
