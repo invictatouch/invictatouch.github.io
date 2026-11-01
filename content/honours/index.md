@@ -22,7 +22,7 @@ opens:
    country: England
    divisions:
     - MO
-   bio: Vaughn has won a record-equalling five consecutive European Championship men's open gold medals and has also played at the 2019 and 2024 World Cups.
+   bio: Vaughn has won a record-equalling five consecutive European Championship men's open gold medals between 2016 and 2026. He has also played at the 2019 and 2024 World Cups.
  - forename: Michael
    surname: Roberts
    photo: michaelroberts.jpg
