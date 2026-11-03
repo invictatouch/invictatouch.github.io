@@ -15,14 +15,14 @@ opens:
    divisions:
     - MO
     - X30
-   bio: Tom played in the men's open at the 2011 World Cup and won a silver medal at the 2012 European Championships. He also played three European Championships in the senior mixed division, winning gold in 2016 and silver in 2014 and 2018, and played at the 2019 World Cup.
+   bio: Tom played in the men's open at the 2011 World Cup and won a silver medal at the 2012 European Championships. He also played three European Championships and the 2019 World Cup in the senior mixed division, winning gold in 2016 and silver in 2014 and 2018.
  - forename: Vaughn
    surname: Meredith
    photo: vaughnmeredith.jpg
    country: England
    divisions:
     - MO
-   bio: Vaughn has won a record-equalling five consecutive European Championship men's open gold medals between 2016 and 2026. He has also played at the 2019 and 2024 World Cups.
+   bio: Vaughn has won a record-equalling five consecutive European Championship men's open gold medals between 2016 and 2026. He also played at the 2019 and 2024 World Cups.
  - forename: Michael
    surname: Roberts
    photo: michaelroberts.jpg
@@ -40,7 +40,7 @@ opens:
     - W20
     - G18
     - X15
-   bio: Alice won gold in the women's open at the 2026 European Championships. She previously won gold medals playing for England at the 2023 Atlantic Youth Cup and the 2022 and 2019 European Junior Touch Championships.
+   bio: Alice won gold in the women's open at the 2026 European Championships. She previously won gold medals with England at the 2023 Atlantic Youth Cup and the 2022 and 2019 European Junior Touch Championships.
  - forename: Lydia
    surname: Ticehurst
    photo: lydiaticehurst.jpg
@@ -49,7 +49,7 @@ opens:
     - WO
     - XO
     - G18
-   bio: Lydia has won women's open gold at the European Championships in 2022 and 2023. She won silver in the mixed open in 2026. Previously she captained the England under-18s girls to a gold medal at the 2019 European Junior Touch Championships.
+   bio: Lydia has won women's open gold at the European Championships in 2022 and 2023, and mixed open silver in 2026. Previously she captained the England under-18 girls to victory at the 2019 European Junior Touch Championships.
 seniors:
  - forename: Dan
    surname: Dyer
