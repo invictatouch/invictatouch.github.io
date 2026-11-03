@@ -1,5 +1,6 @@
 ---
 title: '2025 Summer League'
+cover: wombles.jpg
 images:
  - file: wombles.jpg
  - file: femalemvps.jpg

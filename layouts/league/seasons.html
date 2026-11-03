@@ -2,16 +2,25 @@
   <script src="https://kit.fontawesome.com/924a0097e6.js" crossorigin="anonymous"></script>
 {{ end }}
 {{ define "main" }}
+  <h1>{{ .Params.title }}</h1>
+  {{ .Content }}
   {{ if .Params.alert }}
   <div class="alert alert-warning text-center">
     {{ .Params.alert|safeHTML }}
   </div>
   {{ end }}
-  <h1>{{ .Params.title }}</h1>
-  {{ .Content }}
-  <ul>
+  <div class="row">
     {{ range .Pages.ByTitle.Reverse }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    <div class="col-lg-4 mb-4">
+      <div class="position-relative">
+        <a href="{{ .Permalink }}">
+          <div class="bg-primary position-absolute w-100 h-100 opacity-25 bottom-0 rounded">
+          </div>
+          <h2 class="display-4 text-light heavy w-100 text-center position-absolute bottom-0">{{ strings.Substr .Title 0 4 }}</h2>
+          <img src="{{ .Permalink }}{{ .Params.cover }}" alt="{{ .Title }}" class="img-fluid rounded"/>
+        </div>
+      </a>
+    </div>
     {{ end }}
-  </ul>
+  </div>
 {{ end }}

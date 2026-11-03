@@ -1,5 +1,6 @@
 ---
 title: '2026 Summer League'
+cover: tucking_fouchers.jpg
 images:
  - file: tom.jpg
  - file: erin.jpg

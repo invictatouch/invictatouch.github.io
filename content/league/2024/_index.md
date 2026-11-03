@@ -1,5 +1,6 @@
 ---
 title: '2024 Summer League'
+cover: wombles.jpg
 images:
  - file: angela.jpg
  - file: refs.jpg
