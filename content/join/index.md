@@ -20,7 +20,7 @@ memberships:
     - One or two adult sessions each week
     - Coaching by England players
     - Opportunities to play in development tournaments and, subject to selection, elite National Touch Series events
-    - One month free when paid yearly
+    - <b>One month free</b> when paid yearly
 
  - title: Pay-to-Play
    image: paytoplay.jpg
